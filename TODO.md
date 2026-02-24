@@ -1,5 +1,4 @@
 === Lecture 4 - Slide 24
 
 
- 2
-test auto sync
+ test auto sync 1min
