@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "8c30ec306b0d5679",
+    "type": "split",
+    "children": [
+      {
+        "id": "f734548bd8ae9bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a40cc2c77663a3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-14 19.17.00.excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b59d3ff143e85c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c2312f156143029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5941a0b17ce6a8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cc4170989084618",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03a3114730e43dbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fff33b86acd04b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc76c75c86f7276e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "949a9a2a7099116b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-14 19.17.00.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec856442eeb12caf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-14 19.17.00.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53b9a16e293792a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c22fc0b550732e24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-14 19.17.00.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a40cc2c77663a3be",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-14 18.56.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-14 14.19.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-12 09.34.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-14 19.17.00.excalidraw.md",
+    "Excalidraw",
+    "Differential equations/First order linear DE.md",
+    "Differential equations/First order linear DE solution process.md",
+    "Differential equations/2nd Order flow Chart.md",
+    "Differential equations",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/Images/Pasted image 20240501204745.png",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/Images/Pasted image 20240501203318.png",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/Images/Pasted image 20240501203241.png",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.4 Inverse Laplace Transform/Simple Poles.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.4 Inverse Laplace Transform/Repeated Poles.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.4 Inverse Laplace Transform/Partial Fraction Decomposition.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.4 Inverse Laplace Transform/Inverse Laplace Transform.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.4 Inverse Laplace Transform/Complex Poles.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.3 Properties of the Laplace Transform/Time Shift.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.3 Properties of the Laplace Transform/Scaling.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.3 Properties of the Laplace Transform/Properties of the Laplace Transform.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.3 Properties of the Laplace Transform/Laplace transform pairs.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.3 Properties of the Laplace Transform/Linearity.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.2 Definition of the Laplace Transform/Laplace Transform.md",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/Images",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.4 Inverse Laplace Transform",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.3 Properties of the Laplace Transform",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.2 Definition of the Laplace Transform",
+    "ECE 202/Chapter 15 - Introduction to the Laplace Transform",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502213041.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502210937.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193411.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193217.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193206.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502191414.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502184408.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.6 Step Response of a Parallel RLC Circuit/Step Response of a Parallel RLC Circuit.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.5 Step response of a Series RLC Circuit/Transient Response.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.5 Step response of a Series RLC Circuit/Step response of a Series RLC Circuit.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.5 Step response of a Series RLC Circuit/Steady State Response.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.4 Source-Free Parallel RLC Circuit/Parallel RLC Underdamped.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.4 Source-Free Parallel RLC Circuit/Parallel RLC Overdamped.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.4 Source-Free Parallel RLC Circuit/Parallel RLC Critically Damped.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.4 Source-Free Parallel RLC Circuit/Parallel RLC Circuit.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.6 Step Response of a Parallel RLC Circuit",
+    "ECE 202/Chapter 8 - Second Order Circuits/8.5 Step response of a Series RLC Circuit"
+  ]
+}

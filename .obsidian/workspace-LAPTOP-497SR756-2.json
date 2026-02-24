@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "21f000cffa15f21d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c1c6e4054acf41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7260e99fc1e7d4c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3080738fe64bbb4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "29554aa953fe35ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 202/Chapter 8 - Second Order Circuits/Source Free RLC Circuit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df09f865e678822e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b48aa4686be94774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a949cf8d5ec0c05b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a712b0ffc7441512",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "phasor",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "320a3b24115f84cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 499.5
+  },
+  "right": {
+    "id": "64ee12fea5e89ef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b10c2b62b9e72a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1f57b29d37d461",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ECE 202/Chapter 11 - AC Power Analysis/Average Power Transfer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84c9983de0987e78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ECE 202/Chapter 11 - AC Power Analysis/Average Power Transfer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd950acf3427a7ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b946e4c5cb179b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECE 202/Chapter 11 - AC Power Analysis/Average Power Transfer.md"
+              }
+            }
+          },
+          {
+            "id": "59c5d3b89d219bde",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a949cf8d5ec0c05b",
+  "lastOpenFiles": [
+    "ECE 202/Chapter 10 - Sinusoidal Steady-State Analysis/Pictures",
+    "ECE 202/Chapter 11 - AC Power Analysis/RMS - Effective Value.md",
+    "ECE 202/Chapter 11 - AC Power Analysis/Average Power Transfer.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Expressing in sine and cosine form.md",
+    "ECE 202/Chapter 11 - AC Power Analysis",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Phasor.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/General Sinusoid Equation.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Sinusoid Frequency.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Periodic Function.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Period of sinusoid.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Operations of complex numbers.md",
+    "ECE 202/Chapter 10 - Sinusoidal Steady-State Analysis/Nodal Analysis AC.md",
+    "ECE 202/Chapter 10 - Sinusoidal Steady-State Analysis/Pictures/Solving Nodal analysis with matri.png",
+    "ECE 202/Chapter 10 - Sinusoidal Steady-State Analysis/Steps to analyze AC circuits.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Current Relationships.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/Source Free RLC Circuit.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/Second Order Circuits.md",
+    "ECE 202/Chapter 8 - Second Order Circuits/Finding Initial and Final Values.md",
+    "ECE 202/Chapter 10 - Sinusoidal Steady-State Analysis/Pictures/Figure 10.2.png",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Phasor with Capacitor.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Phasor with resistor.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Phasor with Inductor.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Figure 9.10.png",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance/Ohm's Law in Phasor Form.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance/Impedance and admittance of elements.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance/Impedance.md",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance/Admittance.md",
+    "ECE 202/Chapter 10 - Sinusoidal Steady-State Analysis/Pictures/Figure 10.1.png",
+    "ECE 202/Chapter 10 - Sinusoidal Steady-State Analysis",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/Untitled",
+    "ECE 202/Chapter 8 - Second Order Circuits",
+    "ECE 202/Chapter 7 - First-Order Circuits/Singularity Functions/unit step.md",
+    "ECE 202/Chapter 7/Singularity Functions/Unit Step Function.md",
+    "ECE 202/Chapter 7 - First-Order Circuits/Singularity Functions/Singularity Functions.md",
+    "ECE 202/Chapter 7 - First-Order Circuits/RL Circuits/Figure 7.12.png",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/Figure 7.40.png",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/Figure 7.2.png",
+    "Pasted image 20240226182600.png",
+    "Pasted image 20240226182558.png",
+    "Pasted image 20240226182558 1.png",
+    "ECE 202/Chapter 7 - First-Order Circuits/Singularity Functions",
+    "ECE 202/Chapter 7 - First-Order Circuits/RL Circuits",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits",
+    "ECE 202/Chapter 7 - First-Order Circuits",
+    "Untitled.canvas",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance",
+    "ECE 202/Chapter 9 - Sinusoids and Phasors/9.7 Impedance Combinations"
+  ]
+}

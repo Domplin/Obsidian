@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#ECE_564  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.35052083333333,
+  "lineSizeMultiplier": 1.72937914877001,
+  "collapse-forces": false,
+  "centerStrength": 0.447916666666667,
+  "repelStrength": 11.9484576337368,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.2600937129524648,
+  "close": false
+}

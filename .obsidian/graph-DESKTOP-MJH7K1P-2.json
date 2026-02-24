@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"ECE 202/Chapter 7 - First-Order Circuits\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"ECE 202/Chapter 8 - Second Order Circuits\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"ECE 202/Chapter 9 - Sinusoids and Phasors\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"ECE 202/Chapter 10 - Sinusoidal Steady-State Analysis/Pictures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"ECE 202/Chapter 11 - AC Power Analysis\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8823449
+      }
+    },
+    {
+      "query": "path:\"ECE 202/Chapter 14 - Frequency Function\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8265837
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.35052083333333,
+  "lineSizeMultiplier": 1.72937914877001,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 11.9484576337368,
+  "linkStrength": 1,
+  "linkDistance": 238,
+  "scale": 1.9654227445119514,
+  "close": true
+}

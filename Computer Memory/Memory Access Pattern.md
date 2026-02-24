@@ -1,0 +1,11 @@
+---
+tags:
+  - ECE_564
+  - lecture_4
+---
+- *Sequential access*: Memory is organized into units of data, called records
+	- Access must be made in a specific linear sequence
+- *Direct Access*: Individual blocks or records have a unique address based on physical location
+	- Access is accomplished by direct access to reach a general vicinity plus sequential searching, counting, or waiting to reach the final location
+- *Random Access*: Each addressable location in memory had a unique physically wired-in addressing mechanism
+	- The time it access a given location is independent of the sequence of prior accesses and is constant

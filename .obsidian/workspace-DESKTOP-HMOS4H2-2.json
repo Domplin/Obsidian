@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "21f000cffa15f21d",
+    "type": "split",
+    "children": [
+      {
+        "id": "417d62fc27b65334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d6992931a1e849f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Differential equations/Drawing 2024-09-25 15.58.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-09-25 15.58.58.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df09f865e678822e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b48aa4686be94774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a949cf8d5ec0c05b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a712b0ffc7441512",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "systems of differential ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "320a3b24115f84cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "64ee12fea5e89ef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b10c2b62b9e72a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1f57b29d37d461",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/RC Step Response.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RC Step Response"
+            }
+          },
+          {
+            "id": "84c9983de0987e78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/RC Step Response.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RC Step Response"
+            }
+          },
+          {
+            "id": "dd950acf3427a7ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b946e4c5cb179b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/RC Step Response.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RC Step Response"
+            }
+          },
+          {
+            "id": "59c5d3b89d219bde",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6d6992931a1e849f",
+  "lastOpenFiles": [
+    "Differential equations/Chapter 7/7.6 - Complex-valued Eigenvalues.md",
+    "Untitled.md",
+    "Differential equations/Summer/Chapter 1-2 - First Order Differential Equations/First order linear DE solution process.md",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/RC Step Response.md",
+    "Differential equations/Summer/Chapter 1-2 - First Order Differential Equations/First order linear DE.md",
+    "Differential equations/Chapter 3/3.2 - Wronskian & Linear Independence.md",
+    "Differential equations/Drawing 2024-09-25 15.58.58.excalidraw.md",
+    "Differential equations/Chapter 3/3.2 wronskian - fundamental set of solutions.md",
+    "Differential equations/Chapter 7/7.8 - Repeated Roots.md",
+    "Differential equations/Chapter 3/Second order differential equations.md",
+    "Differential equations/Exam 1 practice.md",
+    "Differential equations/general Notes.md",
+    "Differential equations/Chapter 7/Qualitative Behavior.md",
+    "Excalidraw/Drawing 2024-10-02 16.01.42.excalidraw.md",
+    "Differential equations/Chapter 7/7.5.md",
+    "Excalidraw/Drawing 2024-10-14 16.00.40.excalidraw.md",
+    "Differential equations/Chapter 2/2.2 - Separable 1st order DE'S.md",
+    "Differential equations/Chapter 7",
+    "Differential equations/Chapter 3",
+    "Differential equations/Chapter 2",
+    "Differential equations/Summer/Final practice.md",
+    "Differential equations/Summer",
+    "ECE 524/Recurrent Neural Networks and machine learning.md",
+    "ECE 524/Generative AI.md",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/RC Complete Response.md",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/Key to Working with a Source-Free RC Circuit.md",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/Find RC Step Response.md",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/Figure 7.40.png",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/Figure 7.2.png",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/Energy Stored in Capacitor.md",
+    "ECE 202/Chapter 7 - First-Order Circuits/RC Circuits/Capacitive Time Constant.md",
+    "Differential equations/Summer/Chapter 7 - Systems of First Order Linear Equations/Complex valued eigenvalues.md",
+    "Pasted Image 20240718223326_811.png",
+    "Differential equations/Summer/Chapter 7 - Systems of First Order Linear Equations",
+    "Differential equations/Summer/Chapter 6 - The Laplace Transform",
+    "Differential equations/Summer/Chapter 5 - Series Solutions of Second Order Differential Equations",
+    "Differential equations/Summer/Chapter 4 - Higher Order Linear Differential Equations",
+    "Differential equations/Summer/Chapter 3 - Second Order Differential Equations",
+    "Differential equations/First Order Differential Equations/Untitled",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502213041.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502210937.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193411.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193217.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193206.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502191414.png",
+    "ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502184408.png",
+    "Untitled.canvas"
+  ]
+}
