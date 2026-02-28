@@ -227,8 +227,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1c9f0e38f8701ef",
+  "active": "24959e23bd6e63ab",
   "lastOpenFiles": [
+    "6T-SRAM Cell Schematic - access transistor.png",
     "6T-SRAM Cell Schematic.png",
     "Computer Memory/Read Sequence.md",
     "6T-SRAM/6T-SRAM Cell Schematic.md",
@@ -267,7 +268,6 @@
     "Transistors/images/Gate-Induced Drain Leakage-1.png",
     "Transistors/images/Gate-Induced Drain Leakage.png",
     "Transistors/images/Drain Induced Barrier Lowering.png",
-    "Transistors/images/Gate Leakage graph.png",
     "Transistors/images",
     "Transistors",
     "Old",
