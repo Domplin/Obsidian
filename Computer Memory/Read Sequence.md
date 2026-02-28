@@ -7,4 +7,6 @@
 2) Word Line activated
 	- The word line goes up, connecting the cell to the $BL$ and $\overline{BL}$ 
 	- A voltage then develops between $BL$ and $\overline{BL}$ with $V_{BL}$ higher than $V_{\overline{BL}}$ if the accessed cell is storing a 1 or $V_{\overline{BL}}$ higher than $V_{BL}$ is the cell is storing a 0.
-	- To keep the cell area small and to facilitate operation at higher speeds, the readout signal which th
+	- To keep the cell area small and to facilitate operation at higher speeds, the readout signal which the line is required to provide between $BL$ and $\overline{BL}$, is kept small (usually 20-500 mV)
+3) Sense amplifier activated
+	- Once an adequate difference voltage signal between B 
