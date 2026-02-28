@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6T-SRAM/6T-SRAM Operation.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6T-SRAM Operation"
+              "title": "Untitled"
             }
           },
           {
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6T-SRAM Write Operation.md",
+                "file": "6T-SRAM/6T-SRAM Write Operation.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,13 +241,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "345b8692a5cff9da",
+  "active": "24959e23bd6e63ab",
   "lastOpenFiles": [
+    "6T-SRAM/6T-SRAM Operation.md",
     "Untitled.md",
-    "6T-SRAM Write Operation.md",
+    "6T-SRAM/6T-SRAM Write Operation.md",
+    "6T-SRAM Retention/Hold.md",
+    "6T-SRAM Retention",
     "6T-SRAM Write Operation - Timing diagram.png",
     "Transistors/NMOS vs PMOS.md",
-    "6T-SRAM/6T-SRAM Operation.md",
     "6T-SRAM Write Operation write 0.png",
     "Computer Memory/PROM.md",
     "6T-SRAM Operation.png",
@@ -286,7 +288,6 @@
     "Old",
     "Transistor/images",
     "Transistor",
-    "Old/ECE 303",
-    "Old/ECE 452/Midterm"
+    "Old/ECE 303"
   ]
 }

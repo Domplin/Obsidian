@@ -8,3 +8,4 @@
 
 
 - [[6T-SRAM Write Operation]]
+- [[6T-SRAM Retention/Hold]]
