@@ -23,5 +23,11 @@ $$
 
 
 **Read Margin**:
-- When a cell is not accessed (WL=0) 
-	- Data is safely kept 
+- When a cell is not accessed (WL=$0$) 
+	- Data is safely kept inside the cell
+	- High noise margin
+
+- When cell is accessed (WL = $V_{DD}$)
+	- Access transistor acts as a noise source
+	- Data '$0$' is pulled up to $V_{X}$ 
+	- 
