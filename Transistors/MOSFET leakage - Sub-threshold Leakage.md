@@ -2,6 +2,8 @@
 tags:
   - ECE_564
   - Lecture_2
+aliases:
+  - sub-threshold leakage
 ---
 	
 Sub-threshold leakage (or conduction) is the unwanted, exponential current ($I_{sub}$) flowing between source and drain when a MOSFET is "off" ($V_{GS}<V_{th}$) primarily due to carrier diffusion rather than drift. It is a major component of static power dissipation.
