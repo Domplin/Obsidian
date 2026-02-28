@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,14 +241,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24959e23bd6e63ab",
+  "active": "345b8692a5cff9da",
   "lastOpenFiles": [
+    "Untitled.md",
     "6T-SRAM Write Operation.md",
+    "6T-SRAM Write Operation - Timing diagram.png",
     "Transistors/NMOS vs PMOS.md",
+    "6T-SRAM/6T-SRAM Operation.md",
     "6T-SRAM Write Operation write 0.png",
     "Computer Memory/PROM.md",
-    "Untitled.md",
-    "6T-SRAM/6T-SRAM Operation.md",
     "6T-SRAM Operation.png",
     "6T-SRAM/6T-SRAM Cell Schematic.md",
     "6T-SRAM Cell Schematic - access transistor.png",
@@ -278,10 +279,8 @@
     "Computer Memory/Images/Semiconductor Memory Types.png",
     "Computer Memory",
     "Old/ECE 202/Chapter 14 - Frequency Function/Images/Pasted image 20240328174444.png",
-    "Transistors/images/Countering Leakage.png",
     "Transistors/Threshold and Overdrive Voltage.md",
     "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
-    "Transistors/Punch Through Leakage.md",
     "Transistors/images",
     "Transistors",
     "Old",
