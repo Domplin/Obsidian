@@ -9,3 +9,9 @@
 
 **How to Speed up Read Operation**:
 - *use a sense amp* 
+
+$$
+\text{Bitline delay}= \frac{C_{bit-line}\Delta V_{bit-line}}{I_{cell}}
+$$
+- $C_{bit-line}$ is large to the large number of cells attached 
+- $I_{Cell}$ 
