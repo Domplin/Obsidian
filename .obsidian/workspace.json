@@ -241,13 +241,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1c9f0e38f8701ef",
+  "active": "6035be027278c2cd",
   "lastOpenFiles": [
-    "6T-SRAM Read Operation.png",
-    "6T-SRAM/6T-SRAM Read Operation.md",
     "6T-SRAM/6T-SRAM Operation.md",
-    "6T-SRAM/6T-SRAM Hold Operation.md",
     "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
+    "6T-SRAM/6T-SRAM Hold Operation.md",
+    "Untitled.md",
+    "6T-SRAM/6T-SRAM Read Operation.md",
+    "6T-SRAM Read Operation.png",
     "Transistors/NMOS vs PMOS.md",
     "6T-SRAM/6T-SRAM Write Operation.md",
     "Computer Memory/Semiconductor Memory Types.md",
@@ -283,7 +284,6 @@
     "Computer Memory/Images",
     "Computer Memory/Images/Semiconductor Memory Types.png",
     "Computer Memory",
-    "Old/ECE 202/Chapter 14 - Frequency Function/Images/Pasted image 20240328174444.png",
     "Transistors/images",
     "Transistors",
     "Old",
