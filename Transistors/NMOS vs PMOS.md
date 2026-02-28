@@ -2,6 +2,9 @@
 tags:
   - ECE_564
   - Lecture_1
+aliases:
+  - PMOS
+  - NMOS
 ---
 ![[NMOS vs PMOS.png]]
 
