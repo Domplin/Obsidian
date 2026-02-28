@@ -227,8 +227,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24959e23bd6e63ab",
+  "active": "a1c9f0e38f8701ef",
   "lastOpenFiles": [
+    "Computer Memory/Images/Read Sequence.png",
     "Computer Memory/Differential Sense Amplifier.md",
     "Computer Memory/Read Sequence.md",
     "TODO.md",
@@ -261,7 +262,6 @@
     "Transistors/Drain Induced Barrier Lowering.md",
     "Transistors/Gate Leakage.md",
     "Transistors/Sub-threshold Swing.md",
-    "Transistors/Junction Leakage.md",
     "Transistors/images/Gate-Induced Drain Leakage-1.png",
     "Transistors/images/Gate-Induced Drain Leakage.png",
     "Transistors/images/Drain Induced Barrier Lowering.png",
