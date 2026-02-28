@@ -243,6 +243,7 @@
   },
   "active": "6035be027278c2cd",
   "lastOpenFiles": [
+    "6T-SRAM Read Operation - read margin.png",
     "6T-SRAM/6T-SRAM Operation.md",
     "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
     "6T-SRAM/6T-SRAM Hold Operation.md",
@@ -280,7 +281,6 @@
     "Computer Memory/Static vs Dynamic Memory.md",
     "Computer Memory/Volatility of Memory.md",
     "Computer Memory/Images/PROM - Floating gate.png",
-    "ROM.md",
     "Computer Memory/Images",
     "Computer Memory/Images/Semiconductor Memory Types.png",
     "Computer Memory",

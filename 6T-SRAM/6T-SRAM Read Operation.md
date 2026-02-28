@@ -22,6 +22,9 @@ $$
 
 
 
+
+![[6T-SRAM Read Operation - read margin.png]]
+
 **Read Margin**:
 - When a cell is not accessed (WL=$0$) 
 	- Data is safely kept inside the cell
@@ -30,4 +33,4 @@ $$
 - When cell is accessed (WL = $V_{DD}$)
 	- Access transistor acts as a noise source
 	- Data '$0$' is pulled up to $V_{X}$ 
-	- 
+	- Cell data can flip if $V_{X}$ rises above $V_{th}$([[NMOS vs PMOS|NMOS]])
