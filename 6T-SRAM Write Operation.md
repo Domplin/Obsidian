@@ -10,4 +10,6 @@
 - Access transistors mush be stronger than [[NMOS vs PMOS|PMOS]] pull-up transistor (or load)
 
 
-*Pull-up Ratio*: $\frac{\left( \frac{W}{L} \right)_{pmos}}{\left( \frac{W}{L} \right)_{access}}$ 
+*Pull-up Ratio*: $\frac{\left( \frac{W}{L} \right)_{pmos}}{\left( \frac{W}{L} \right)_{access}}$ - Typical Pull-up ratio $<1.5$ 
+
+-  Note: for the same size, [[NMOS vs PMOS|PMOS]] is slightly we
