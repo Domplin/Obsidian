@@ -7,4 +7,4 @@
 ![[6T-SRAM Operation.png]]
 
 
-- [[6T]]
+- [[6T-SRAM Write Operation]]
