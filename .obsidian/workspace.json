@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6T-SRAM Read Operation.md",
+                "file": "6T-SRAM/6T-SRAM Read Operation.md",
                 "mode": "source",
                 "source": false
               },
@@ -241,9 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6035be027278c2cd",
+  "active": "a1c9f0e38f8701ef",
   "lastOpenFiles": [
-    "6T-SRAM Read Operation.md",
+    "6T-SRAM Read Operation.png",
+    "6T-SRAM/6T-SRAM Read Operation.md",
     "6T-SRAM/6T-SRAM Operation.md",
     "6T-SRAM/6T-SRAM Hold Operation.md",
     "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
@@ -279,7 +280,6 @@
     "Computer Memory/Volatility of Memory.md",
     "Computer Memory/Images/PROM - Floating gate.png",
     "ROM.md",
-    "Static.md",
     "Computer Memory/Images",
     "Computer Memory/Images/Semiconductor Memory Types.png",
     "Computer Memory",

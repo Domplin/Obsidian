@@ -3,4 +3,5 @@
 - Cell pulls down either $BL$ or $BLB$ 
 - Sense amp regenerates the differential signal 
 - Data should not flip after read access 
-- Driver transistor 
+- Driver transistor must be stronger than access transistor 
+![[6T-SRAM Read Operation.png]]
