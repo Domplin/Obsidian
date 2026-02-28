@@ -12,4 +12,5 @@ $$
 $$
 
 
-*Note*: [[NMOS vs PMOS|PMOS]] current $\propto$ hole mobility $\mu_{h}$, which is lower than electron mobility $\mu_{e}$ - Typically $\mu_{e} \approx 2\mu_{h}$  
+*Note*: [[NMOS vs PMOS|PMOS]] current $\propto$ hole mobility $\mu_{h}$, which is lower than electron mobility $\mu_{e}$ - Typically $\mu_{e} \approx 2\mu_{h}$ 
+- Because of that [[NMOS vs PMOS|PMOS]] is weaker than a similarly sized [[NMOS vs PMOS|NMOS]] 
