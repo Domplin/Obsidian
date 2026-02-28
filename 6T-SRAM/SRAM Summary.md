@@ -8,5 +8,5 @@ $$
 
 To ensure readability:
 $$
-\text{Cell Ratio (Beta Ratio)}  
+\text{Cell Ratio (Beta Ratio)}  =\frac{\left( \frac{W}{L} \right)_{PMOS}}{\left( \frac{W}{L} \right)_{Access}} > 1
 $$
