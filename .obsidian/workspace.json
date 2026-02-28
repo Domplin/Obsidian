@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6T-SRAM/Static Noise Margin.md",
+                "file": "6T-SRAM/SRAM Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static Noise Margin"
+              "title": "SRAM Summary"
             }
           },
           {
@@ -243,8 +243,10 @@
   },
   "active": "6035be027278c2cd",
   "lastOpenFiles": [
-    "6T-SRAM Retention/Hold.md",
+    "SRAM Summary.png",
     "6T-SRAM/Static Noise Margin.md",
+    "6T-SRAM/SRAM Summary.md",
+    "6T-SRAM Retention/Hold.md",
     "Static Noise Margin.png",
     "6T-SRAM/6T-SRAM Read Operation.md",
     "6T-SRAM/6T-SRAM Operation.md",
@@ -280,7 +282,6 @@
     "Computer Memory/ROM.md",
     "Computer Memory/SRAM.md",
     "Computer Memory/Static vs Dynamic Memory.md",
-    "Computer Memory/Volatility of Memory.md",
     "Computer Memory/Images",
     "Computer Memory",
     "Transistors/images",

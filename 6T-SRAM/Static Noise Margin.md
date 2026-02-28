@@ -29,4 +29,4 @@ aliases:
 	- Internal node on low side needs to rise to $V_{t}$ or more
 	- Virtually never happens when $V_{t}$ is larger than $\frac{V_{DD}}{2}$ 
 	- Cell is extremely stable at ultra-low power design point
-	- Beta ratio constraint is relaxed $\rightarrow$ smaller driver and large
+	- Beta ratio constraint is relaxed $\rightarrow$ smaller driver and larger access transistor can be used for faster read and write 
