@@ -8,4 +8,4 @@ tags:
 	$$
 I_{leak} \propto e^{\frac{-V_{th}}{\eta(\frac{kT}{q})}}
 $$
-- [[NMOS vs PMOS|PMOS]] pull-up transistor mucst
+- [[NMOS vs PMOS|PMOS]] pull-up transistor must compensate for leakage 

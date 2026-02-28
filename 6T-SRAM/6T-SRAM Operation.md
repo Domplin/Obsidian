@@ -1,3 +1,8 @@
+---
+tags:
+  - ECE_564
+  - Lecture_5
+---
 
 - 6T SRAM cell has three states
 	- Write 
@@ -9,4 +14,4 @@
 
 - [[6T-SRAM Write Operation]]
 - [[6T-SRAM Hold Operation]]
-- 
+- [[6T-SRAM Read Operation]]

@@ -1,0 +1,1 @@
+- Both bit lines are pre-charged 
