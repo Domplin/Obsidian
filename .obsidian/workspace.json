@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Memory/6T-SRAM/6T-SRAM Cell Schematic.md",
+                "file": "6T-SRAM/6T-SRAM Cell Schematic.md",
                 "mode": "source",
                 "source": false
               },
@@ -227,11 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24959e23bd6e63ab",
+  "active": "a1c9f0e38f8701ef",
   "lastOpenFiles": [
+    "6T-SRAM Cell Schematic.png",
     "Computer Memory/Read Sequence.md",
-    "Computer Memory/6T-SRAM/6T-SRAM Cell Schematic.md",
-    "Computer Memory/6T-SRAM",
+    "6T-SRAM/6T-SRAM Cell Schematic.md",
+    "6T-SRAM",
     "Computer Memory/Images/Read Sequence.png",
     "Computer Memory/Differential Sense Amplifier.md",
     "TODO.md",
@@ -263,7 +264,6 @@
     "Transistors/Gate-Induced Drain Leakage.md",
     "Transistors/Drain Induced Barrier Lowering.md",
     "Transistors/Gate Leakage.md",
-    "Transistors/Sub-threshold Swing.md",
     "Transistors/images/Gate-Induced Drain Leakage-1.png",
     "Transistors/images/Gate-Induced Drain Leakage.png",
     "Transistors/images/Drain Induced Barrier Lowering.png",
