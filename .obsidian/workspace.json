@@ -229,6 +229,7 @@
   },
   "active": "24959e23bd6e63ab",
   "lastOpenFiles": [
+    "6T-SRAM Operation.png",
     "6T-SRAM/6T-SRAM Cell Schematic.md",
     "6T-SRAM/6T-SRAM Operation.md",
     "6T-SRAM Cell Schematic - access transistor.png",
@@ -265,7 +266,6 @@
     "Transistors/Punch Through Leakage.md",
     "Transistors/Gate-Induced Drain Leakage.md",
     "Transistors/Drain Induced Barrier Lowering.md",
-    "Transistors/Gate Leakage.md",
     "Transistors/images/Gate-Induced Drain Leakage-1.png",
     "Transistors/images/Gate-Induced Drain Leakage.png",
     "Transistors/images",
