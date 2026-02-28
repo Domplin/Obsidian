@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Memory/Differential Sense Amplifier.md",
+                "file": "Computer Memory/Read Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Differential Sense Amplifier"
+              "title": "Read Sequence"
             }
           },
           {
@@ -230,6 +230,7 @@
   "active": "24959e23bd6e63ab",
   "lastOpenFiles": [
     "Computer Memory/Differential Sense Amplifier.md",
+    "Computer Memory/Read Sequence.md",
     "TODO.md",
     "Computer Memory/Semiconductor Memory Types.md",
     "Computer Memory/Architecture of Typical Memory Chips.md",
@@ -261,7 +262,6 @@
     "Transistors/Gate Leakage.md",
     "Transistors/Sub-threshold Swing.md",
     "Transistors/Junction Leakage.md",
-    "Transistors/Dennard's Scaling Rules.md",
     "Transistors/images/Gate-Induced Drain Leakage-1.png",
     "Transistors/images/Gate-Induced Drain Leakage.png",
     "Transistors/images/Drain Induced Barrier Lowering.png",

@@ -11,4 +11,4 @@ tags:
 
 - The signal - which can range from 20mV to 500mV depending on the memory type and cell design, will be amplified to the input terminals of the sense amplifier
 
-- The sense amplifier in turn responds by providing a full swing (0 to VDD)
+- The sense amplifier in turn responds by providing a full swing (0 to VDD) singal at its output terminals. 
