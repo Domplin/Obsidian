@@ -7,4 +7,6 @@ tags:
 	- Sense amplifiers offer speed and area improvements 
 
 
-- The memory cell whose output is to amplified develops a difference output voltage between the $BL$ and $\textem$
+- The memory cell whose output is to amplified develops a difference output voltage between the $BL$ and $\overline{BL}$ lines.
+
+- The signal - which can range from 20mV to 500mV depending on 
