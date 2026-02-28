@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Memory/Read Sequence.md",
+                "file": "Computer Memory/6T-SRAM/6T-SRAM Cell Schematic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read Sequence"
+              "title": "6T-SRAM Cell Schematic"
             }
           },
           {
@@ -227,11 +227,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1c9f0e38f8701ef",
+  "active": "24959e23bd6e63ab",
   "lastOpenFiles": [
+    "Computer Memory/Read Sequence.md",
+    "Computer Memory/6T-SRAM/6T-SRAM Cell Schematic.md",
+    "Computer Memory/6T-SRAM",
     "Computer Memory/Images/Read Sequence.png",
     "Computer Memory/Differential Sense Amplifier.md",
-    "Computer Memory/Read Sequence.md",
     "TODO.md",
     "Computer Memory/Semiconductor Memory Types.md",
     "Computer Memory/Architecture of Typical Memory Chips.md",
@@ -266,14 +268,12 @@
     "Transistors/images/Gate-Induced Drain Leakage.png",
     "Transistors/images/Drain Induced Barrier Lowering.png",
     "Transistors/images/Gate Leakage graph.png",
-    "Transistors/images/Sub-threshold Swing.png",
     "Transistors/images",
     "Transistors",
     "Old",
     "Transistor/images",
     "Transistor",
     "Old/ECE 303",
-    "Old/ECE 452/Midterm",
-    "ECE 452.zip"
+    "Old/ECE 452/Midterm"
   ]
 }
