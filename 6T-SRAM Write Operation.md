@@ -12,4 +12,4 @@
 
 *Pull-up Ratio*: $\frac{\left( \frac{W}{L} \right)_{pmos}}{\left( \frac{W}{L} \right)_{access}}$ - Typical Pull-up ratio $<1.5$ 
 
--  Note: for the same size, [[NMOS vs PMOS|PMOS]] is slightly we
+-  Note: for the same size, [[NMOS vs PMOS|PMOS]] is slightly weaker due to lower hole mobility: $\mu_{h} \approx \frac{1}{2} ,u_{e}$ 

@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "345b8692a5cff9da",
+  "active": "24959e23bd6e63ab",
   "lastOpenFiles": [
-    "Transistors/NMOS vs PMOS.md",
     "6T-SRAM Write Operation.md",
+    "Transistors/NMOS vs PMOS.md",
     "6T-SRAM Write Operation write 0.png",
     "Computer Memory/PROM.md",
     "Untitled.md",
