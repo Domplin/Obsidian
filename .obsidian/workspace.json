@@ -55,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
+                "file": "TODO.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOSFET leakage - Sub-threshold Leakage"
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "d7fab6f3b396ec05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,21 +253,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92c479d6db76a075",
+  "active": "d7fab6f3b396ec05",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
     "6T-SRAM/6T-SRAM Hold Operation.md",
     "TODO.md",
     "6T-SRAM/SRAM Summary.md",
     "6T-SRAM/6T-SRAM Operation.md",
-    "SRAM Summary.png",
+    "6T-SRAM/Images/SRAM Summary.png",
     "6T-SRAM/Static Noise Margin.md",
     "6T-SRAM Retention/Hold.md",
-    "Static Noise Margin.png",
+    "6T-SRAM/Images/Static Noise Margin.png",
     "6T-SRAM/6T-SRAM Read Operation.md",
-    "6T-SRAM Read Operation - read margin.png",
-    "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
-    "Untitled.md",
-    "6T-SRAM Read Operation.png",
+    "6T-SRAM/Images/6T-SRAM Read Operation - read margin.png",
+    "6T-SRAM/Images/6T-SRAM Read Operation.png",
     "Transistors/NMOS vs PMOS.md",
     "6T-SRAM/6T-SRAM Write Operation.md",
     "Computer Memory/Semiconductor Memory Types.md",
