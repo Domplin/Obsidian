@@ -6,7 +6,7 @@ where $a$ is a constant and $a>0$. If we let $x=at$, $dx=a$ $dt$ then:
 $$
 L[f(at)]=\int ^\infty _{0^-}f(x)e^{-x(s/a)} \, \frac{dx}{a}=\frac{1}{a}\int ^\infty _{0^-}f(x)e^{-x(s/a)}\, dx
 $$
-Comparing this integral with the definition of the Laplace transform from the equation in [[Previous/ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.2 Definition of the Laplace Transform/Laplace Transform]] it shows that $s$ must be replaced by a $\frac{s}{a}$ while the dummy variable $t$ is replaced by $x$ 
+Comparing this integral with the definition of the Laplace transform from the equation in [[Old/ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.2 Definition of the Laplace Transform/Laplace Transform]] it shows that $s$ must be replaced by a $\frac{s}{a}$ while the dummy variable $t$ is replaced by $x$ 
 
 We obtain the scaling property as:
 $$

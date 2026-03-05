@@ -18,12 +18,12 @@ $$
 The [[characteristic equation]] is not affected by the presence of the DC source
 
 The solution to the equation has two components:
-- the [[Previous/ECE 202/Chapter 8 - Second Order Circuits/8.5 Step response of a Series RLC Circuit/Transient Response]] $v_{t}(t)$ 
+- the [[Old/ECE 202/Chapter 8 - Second Order Circuits/8.5 Step response of a Series RLC Circuit/Transient Response]] $v_{t}(t)$ 
 - [[Steady-State Response]] $v_{ss}(t)$ 
 $$
 v(t)=v_{t}(t)+v_{ss}(t)
 $$
-Therefore the [[Previous/ECE 202/Chapter 8 - Second Order Circuits/8.5 Step response of a Series RLC Circuit/Transient Response]] $v_{t}(t)$ for the [[Series RLC Overdamped]], [[Series RLC Critically Damped]], and [[Series RLC Underdamped Case]]
+Therefore the [[Old/ECE 202/Chapter 8 - Second Order Circuits/8.5 Step response of a Series RLC Circuit/Transient Response]] $v_{t}(t)$ for the [[Series RLC Overdamped]], [[Series RLC Critically Damped]], and [[Series RLC Underdamped Case]]
 
 
 Thus the complete solutions for the overdamped, underdamped, and critically damped cases are:

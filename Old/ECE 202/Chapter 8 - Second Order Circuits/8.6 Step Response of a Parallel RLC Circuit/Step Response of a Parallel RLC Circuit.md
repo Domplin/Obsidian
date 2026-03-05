@@ -13,7 +13,7 @@ Substituting for $v$ and dividing $LC$ we get
 $$
 \frac{d^2i}{dt^2}+\frac{1}{RC} \frac{di}{dt}+\frac{i}{LC}=\frac{I_{s}}{LC}
 $$
-The complete solution consists of the [[Previous/ECE 202/Chapter 7 - First-Order Circuits/Transient Response|Transient Response]] $i_{t}(t)$ and the [[Steady-State Response]] $i_{ss}$:
+The complete solution consists of the [[Old/ECE 202/Chapter 7 - First-Order Circuits/Transient Response|Transient Response]] $i_{t}(t)$ and the [[Steady-State Response]] $i_{ss}$:
 $$
 i(t)=i_{t}(t)+i_{ss}(t)
 $$

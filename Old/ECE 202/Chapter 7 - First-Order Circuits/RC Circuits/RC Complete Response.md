@@ -8,7 +8,7 @@ $Complete Response = Natural \mathrm{Re}sponse + Forced \mathrm{Re}sponse$
 
 Another way to look at the complete response is to break down the two components - one temporary and the other permanent
 
-Complete Response = [[Previous/ECE 202/Chapter 7 - First-Order Circuits/Transient Response]] + [[Steady-State Response]] 
+Complete Response = [[Old/ECE 202/Chapter 7 - First-Order Circuits/Transient Response]] + [[Steady-State Response]] 
 
 The Complete Response can be written as:
 $$

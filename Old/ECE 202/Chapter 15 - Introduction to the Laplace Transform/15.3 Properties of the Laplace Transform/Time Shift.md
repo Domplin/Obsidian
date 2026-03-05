@@ -22,7 +22,7 @@ $$
 L[f(t-a)u(t-a)] = e^{-as}F(s)
 $$
 
-*in other words*: if a function is delayed in time by $a$ the result in the $s$-domain is found by multiplying the [[Previous/ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.2 Definition of the Laplace Transform/Laplace Transform]] of the function (*without the delay*) by $e^{-as}$. This is called the *time-delay* or *time-shift property* of the [[Previous/ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.2 Definition of the Laplace Transform/Laplace Transform]]
+*in other words*: if a function is delayed in time by $a$ the result in the $s$-domain is found by multiplying the [[Old/ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.2 Definition of the Laplace Transform/Laplace Transform]] of the function (*without the delay*) by $e^{-as}$. This is called the *time-delay* or *time-shift property* of the [[Old/ECE 202/Chapter 15 - Introduction to the Laplace Transform/15.2 Definition of the Laplace Transform/Laplace Transform]]
 
 
 As an example we know that 
