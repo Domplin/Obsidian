@@ -1,0 +1,10 @@
+- ISA
+	- Agreed upon interface between software and hardware
+		- SW/compiler assumes, HW promises
+	- What the software writer needs to know to write system/driver programs
+- Microarchitecture
+	- specific implementation of an ISA
+	- not visible to the software
+- Microprocessor (or Processor) Architecture
+	- *ISA + microarchitecture*
+		- with some aspects of circuits and algorithms thrown in

@@ -1,0 +1,3 @@
+- *Redundancy* so that a failing piece doesn’t make the whole system fail
+	- increasing transistors density reduces the cost of redundancy
+	-

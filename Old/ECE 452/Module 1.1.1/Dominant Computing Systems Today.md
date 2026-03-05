@@ -1,0 +1,3 @@
+- There are two main types of computing platforms that are driving cutting edge advances in computer architecture today
+	- [[Personal Mobile Device (PMD)]]
+	- [[Cloud Computing]] 

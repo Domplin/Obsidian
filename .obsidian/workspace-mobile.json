@@ -11,10 +11,14 @@
             "id": "af326332a8d02f8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TODO"
             }
           }
         ]
@@ -150,6 +154,7 @@
   },
   "active": "af326332a8d02f8f",
   "lastOpenFiles": [
+    "Old",
     "Excalidraw/EECE 451 Lecture 1.md",
     "ECE 452/Drawing 2025-01-21 11.33.59.excalidraw.md",
     "Excalidraw/Drawing 2024-11-18 16.07.09.excalidraw.md",
@@ -182,7 +187,6 @@
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Period of sinusoid.md",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/General Sinusoid Equation.md",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Expressing in sine and cosine form.md",
     "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502213041.png",
     "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502210937.png",
     "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193411.png",

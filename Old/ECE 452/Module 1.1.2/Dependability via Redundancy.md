@@ -1,0 +1,4 @@
+- Applies to everything from datacenters to storage to memory to instructions
+	- Redundant *datacenters* so that can lose one datacenter but internet service still stays online
+	- Redundant *disks* so that can lose one disk but not lose data (Redundant Arrays of Independent Disks / RAID)
+	- Redundant memory bits so that can lose 1 bit no data (Error Correcting Code / ECC Memory)

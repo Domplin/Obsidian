@@ -1,0 +1,1 @@
+A Circuit Response is the manner in which the circuit reacts to an excitation.

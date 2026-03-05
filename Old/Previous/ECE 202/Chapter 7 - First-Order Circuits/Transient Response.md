@@ -1,0 +1,1 @@
+The **Transient Response** is the circuit’s temporary response that will die out with time.

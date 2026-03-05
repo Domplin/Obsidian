@@ -1,0 +1,11 @@
+- Response Time (aka latency)
+	- How long it takes to do a task
+		- important for *individual* users
+- Throughput
+	- Total work done per unit time
+		- e.g. → Tasks/transactions per hour
+		- Important to *data center/supercomputing* managers
+
+- How are response time & throughput (for a set of tasks to be executed) affected by
+	- Adding more processors (cores)
+	- Replacing the cores with faster version of the cores?

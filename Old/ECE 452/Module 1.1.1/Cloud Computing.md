@@ -1,0 +1,5 @@
+- “Datacenter” computing
+- Software as a Service (SaaS)
+- portion of software run on a [[Personal Mobile Device (PMD)]] and a portion run on a cloud 
+- Amazon, Google, Facebook, Dropbox, Microsoft, Oracle, etc.
+- **Computer Architecture Challenge**: Ultra high parallel performance

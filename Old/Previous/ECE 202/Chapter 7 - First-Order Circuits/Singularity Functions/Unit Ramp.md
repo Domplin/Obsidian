@@ -1,0 +1,1 @@
+The **unit ramp function** is zero for negative values of *t* and has a unit slope for positive values of *t*

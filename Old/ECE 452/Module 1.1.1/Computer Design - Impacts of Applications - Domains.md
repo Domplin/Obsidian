@@ -1,0 +1,10 @@
+- Important shaping force: **Applications** (usage and context)
+	- Applications and application domains have different requirements 
+		- *Domain:* group with similar characteristics, e.g., automotive, medical
+- **Scientific**: weather prediction, genome sequencing 
+	- First computing application domain: naval ballistics firing tables
+	- Need: large memory, heavy-duty floating point
+	- *Examples:* CRAY XK7, IBM BlueGene
+- **Commercial**: database/web serving, e-commerce, Google
+	- Need: data movement, high memory + I/O bandwidth
+	- *Examples:* Sun Enterprise Server, AMD Opteron/A-Pro, Intel Xeon

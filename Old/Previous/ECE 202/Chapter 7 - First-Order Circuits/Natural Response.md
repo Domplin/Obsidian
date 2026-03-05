@@ -1,0 +1,1 @@
+The **natural response** of a circuit refers to the behavior (in terms of voltages and currents) of the circuit itself, with no external sources of excitation.

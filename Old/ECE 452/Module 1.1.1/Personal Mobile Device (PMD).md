@@ -1,0 +1,6 @@
+- A subclass of “embedded systems”
+- Battery operated 
+- Connects to the internet
+- Hundreds of dollars
+- Smart phones, tablets, smartwatches, fitness trackers, smart earbuds, etc.
+- **Computer Architecture Challenge**: High performance with low power dissipation  

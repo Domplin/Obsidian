@@ -1,0 +1,1 @@
+A **Second order Circuit** is characterized by a second-order differential equation. It consists of resistors and the equivalent of two energy storage elements. 

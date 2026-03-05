@@ -1,0 +1,15 @@
+- Computers get 10x faster, smaller, cheaper every 5-6 years
+	- A 10x quantitative change is qualitative change
+	- A plane is 10x faster than a car, and fundamentally different travel mode
+- New applications become self-sustaining market segments
+	- recent examples: smartphones, sleep / fitness trackers, AR glasses, etc.
+- Some technology-based ramifications
+	- Absolute improvements in metrics: density, speed, power efficiency, costs
+	- SRAM/logic: density: ~30% (annual), speed: ~20%
+	- DRAM: density - ~60%, speed - ~4%
+	- Disk: density - ~60%, speed - ~10% (non-transistor)
+	- Big Improvements in flash memory and network bandwidth, too
+- Metrics changing quickly & in unexpected way w.r.t each other
+	- *Example:* density increases faster than speed and power caps
+	- trade-offs are constantly changing
+	- **Re-evaluate / re-design for each technology generation** 

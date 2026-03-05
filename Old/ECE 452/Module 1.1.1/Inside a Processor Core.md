@@ -1,0 +1,3 @@
+- [[Datapath]]
+- [[Control]]
+- [[Cache memory]]

@@ -1,0 +1,25 @@
+- **Functional**
+	- What functions should the design support
+	- Needs to be *Correct*
+	- Unlike Software, hardware is difficult to update once deployed
+- **Reliable**
+	- Does it *continue* to perform correctly?
+	- Permanent fault vs transient fault
+	- Space satellites vs desktop vs server reliability
+- **High Performance (High throughput/low-latency)**
+	- “Fast” is only meaningful in the context of a set of important tasks
+	- Not just “Gigahertz"
+	- *Impossible Goal*: fastest possible design for all programs
+- **Low Cost**
+	- Per unit manufacturing cost (wafer cost)
+	- Cost of making first chip after design (mask cost)
+	- Design cost (huge design teams)
+- **Low power / energy**
+	- Energy in (battery life, cost of electricity)
+	- Energy out (cooling and related costs)
+	- Cyclic dependency (very much a problem today)
+
+***Challenge***: Balancing relative importance of these goals
+- And the balance is constantly changing
+- No goal is absolutely important at expense of all others
+- **Our Focus**: latency/throughput (performance); and touch on energy, reliability, security, and cost

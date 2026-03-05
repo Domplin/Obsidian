@@ -1,0 +1,35 @@
+ - **Revolution 1: The Microprocessor**
+	 - *Microprocessor Revolution*
+		 - One significant technology threshold was crossed in the 1970s
+		 - Enough Transistors (~3k) to put a 4-bit processor on one chip
+		 - Huge performance advantages: fewer slow chip crossings
+		 - Even bigger cost advantages: one “stamped-out” component
+	- *Microprocessors allowed for new market segments* 
+		- Desktops, CD/DVD players, laptops, game consoles, set-top boxes, mobile phones, digital camera, mp3 player, GPS, automotive 
+	- *Replaces incumbents in existing markets*
+		- Microprocessor-based system replaced supercomputers, “mainframes”, “minicomputers”, etc.
+- **Revolution 2: Implicit Parallelism**
+	- *Then to extract implicit instruction-level parallelism*
+		- Hardware provides parallel resources, figure out how to use them
+		- Software is oblivious
+	- *Initially using pipelining*
+		- Which also enabled increased clock frequency
+	- *Caches*
+		- Became necessary as processor clock frequency increased
+	- *Integrated floating-point*
+	- *Deeper pipelines and branch speculation/prediction*
+	- *Multiple instructions per cycle (superscalar)*
+	- *Dynamic scheduling (out-of-order execution)*
+- **Revolution 3: Explicit Parallelism**
+	- *Then to support explicit data & thread level parallelism on multiple cores*
+		- Hardware provides parallel resources, software provides specific usage
+		- Why? → diminishing returns on instruction-level-parallelism
+		- Helps to increase performance/watt more aggressively
+	- *First using (subword) vector instructions → Intel’s SSE*
+		- One Instruction does four parallel multiplies 
+	- *General support for multi-threaded programs* 
+		- Coherent caches, hardware synchronization primitives 
+	- *Then using support for multiple concurrent thread on a chip*
+		- First with single-core multi-threading, now with multi-core
+	- *Graphics processing units (GPUs) are highly parallel*
+		- Converging with general-purpose processors (CPUs)

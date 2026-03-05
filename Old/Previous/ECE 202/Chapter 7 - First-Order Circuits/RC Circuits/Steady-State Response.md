@@ -1,0 +1,1 @@
+The **Steady State Response** is the behavior of the circuit a long time after an external excitation is applied. 

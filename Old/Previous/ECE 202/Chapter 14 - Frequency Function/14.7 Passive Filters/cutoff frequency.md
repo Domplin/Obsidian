@@ -1,0 +1,1 @@
+The **cutoff frequency** is the frequency at which the transfer function $H$ drops in magnitude to 70.71% of its maximum value. It is also regarded as the frequency at which the power dissipated in a circuit is half of its maximum value. 
