@@ -12,4 +12,11 @@ tags:
 ![[Parasitic Source and Drain Capacitance Diagram.png]]
 
 
-$W$ = Gate width - D = 
+$W$ = Gate width - $D$ = Diffusion length
+
+$$
+C_{SB}=(WD)C_{jbs}+(2W+2D)C_{jbssw}
+$$
+$$
+C_{jbs}=C_{j}\left( 1+ \frac{V_{SB}}{Lab} \right)
+$$
