@@ -6,5 +6,11 @@
 - $Ni$ is density of carries in intrinsic Si ($1.45*10^{10}cm^{-3}$ at 300k)
 
 $$
-V_{T}= V_{TO}+\gamma \lfloor \sqrt{  } \rfloor 
+V_{T}= V_{TO}+\gamma \lfloor \sqrt{ 2\Phi_{B}+|V_{SB}| }-\sqrt{ 2\Phi_{b} } \rfloor
+$$
+$$
+\Phi_{b}=\frac{kT}{q}\ln\left( \frac{N_{A}}{N_{i}} \right)
+$$
+$$
+\gamma=\frac{t_{ox}}{}
 $$
