@@ -10,4 +10,7 @@ tags:
 - High gate current will degrade the MOS transistor in terms of its threshold voltage and trans conductance
 - Hot holes do not normally present a problem because of their lower mobility 
 - Assuming the continuing need for aggressive scaling the problem of hot electrons will further push down the supply voltage 
-- In order for hot carrier injection ot happen the tr
+- In order for hot carrier injection to happen the transistor usually operated in a high-bias region ($V_{GS}> V_{T}, V_{DS}>0.9*V_{DD}$)
+- If a transistor in circuits that
+	- sink DC current
+	- 
