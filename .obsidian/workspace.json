@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transistors/Junction Leakage.md",
+                "file": "Transistors/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Junction Leakage"
+              "title": "Untitled"
             }
           }
         ],
@@ -90,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "924bac091ee98cbf",
@@ -226,6 +225,8 @@
   },
   "active": "d51c1d55328ff72b",
   "lastOpenFiles": [
+    "Transistors/Junction Leakage.md",
+    "Transistors/Untitled.md",
     "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
     "Transistors/Drain Induced Barrier Lowering.md",
     "Transistors/Body Effect.md",
@@ -256,8 +257,6 @@
     "Transistors/images/Diodes - Depletion region.png",
     "Excalidraw/Drawing 2026-02-20 18.50.28.excalidraw.md",
     "6T-SRAM/6T-SRAM Hold Operation.md",
-    "TODO.md",
-    "Excalidraw/2-19 Lectures.md",
     "Old/ECE 524",
     "Old/ECE 452/Module 1.2/Images/Pasted image 20250321163307.png",
     "Old/ECE 452/Module 1.2/Images/Pasted image 20250321020245.png",

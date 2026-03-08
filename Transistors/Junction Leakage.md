@@ -5,6 +5,10 @@ tags:
 ---
 
 - Source and drain junctions are normally reverse-biased so they will leak current
+
+$$
+I_{D}=I_{S}(e^{\frac{V_{D}}{v_{T}}}-1)
+$$
 - Typically, very small but may increase with scaling since doping levels are very high in small technologies 
 
 - If both *n* and *p* regions are heavily doped (the case for advanced MOSFETs) - band-to-band tunneling (BTBT) dominated the pn junction leakage 
