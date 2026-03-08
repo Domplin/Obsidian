@@ -29,4 +29,8 @@ $$
 A_{n}=\frac{1}{\frac{1}{2}+\frac{1}{2}}=1
 $$
 ![[Skewed Logic Gates Example 2.png]]
-- 
+
+- Due to $A_{p}$ and $B_{p}$ are in parallel the lower one is chosen
+$$
+C_{p}=\frac{1}{\frac{1}{4}+\frac{1}{2}}=\fr
+$$
