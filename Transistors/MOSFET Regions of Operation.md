@@ -53,5 +53,12 @@ $$
 
 *Ohmic Region special Case*: When near $V_{DS}=0$ 
 $$
-I_{DS}=\beta(G)
+I_{DS}=\beta(V_{GS}-V_{T})V_{DS}
 $$
+
+
+**Ideal Saturation Region Equations**
+$$
+I_{DS}=\beta\frac{(V_{GS}-V_{T})^2}{2}
+$$
+*Note*: $(V_{GS})$
