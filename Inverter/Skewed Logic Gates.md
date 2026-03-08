@@ -18,3 +18,9 @@ This needs to be done for pull-up and pull-down paths separately
 
 **Equivalent Inverter Example**
 ![[Skewed Logic Gates Example 1.png]]
+
+- For path A $B_{p}$ and $C_{n}$ are ignored removing them
+- Pull up network:
+$$
+A_{p}=\frac{1}{1}
+$$
