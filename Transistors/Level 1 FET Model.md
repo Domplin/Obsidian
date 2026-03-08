@@ -16,3 +16,7 @@ $$
 \beta=\frac{\mu \epsilon_{ox}}{t_{ox}}\left( \frac{W}{L} \right)
 $$
 ![[Level 1 FET Model.png]]
+
+**Long Channel Assumption**
+- The flat curve in the saturation region only occurs with long channels
+- The real world FETs have shorter channels 
