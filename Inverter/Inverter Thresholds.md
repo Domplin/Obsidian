@@ -13,4 +13,7 @@ $$
 $$
 V_{Tn}=-V_{Tp}
 $$
-
+$$
+\frac{\beta_{n}}{2}(V_{inv}-V_{Tn})^2=-\frac{\beta_{p}}{2}(V_{inv}-V_{DD}-V_{Tp})^2
+$$
+Giving $V_{inv}$
