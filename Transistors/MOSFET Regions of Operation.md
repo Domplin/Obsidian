@@ -23,7 +23,6 @@ $$
 - $Ids=0$
 - n-Channel formed 
 
-
 - $V_{GS}>V_{T}$
 - $V_{GS}>V_{GD}>V_{T}$
 - $0<V_{DS}<V_{GS}-V_{T}$
@@ -36,3 +35,9 @@ $$
 - $V_{DS}>V_{GS}-V_{T}$
 - Channel pinched off 
 - $I_{DS}$ independent of $V_{DS}$ (ideally)
+
+
+**Ideal Linear/Triode Region Equations**
+$$
+I_{DS}=\beta[(V_{GS}-V_{T})V_{DS}-V]
+$$
