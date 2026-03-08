@@ -11,10 +11,14 @@
             "id": "0bec7e469da7ebfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Transistors/Diodes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Diodes"
             }
           }
         ]
@@ -196,6 +200,7 @@
   },
   "active": "0bec7e469da7ebfe",
   "lastOpenFiles": [
+    "Transistors/Diodes.md",
     "Excalidraw/Drawing 2026-02-20 18.50.28.excalidraw.md",
     "6T-SRAM/6T-SRAM Hold Operation.md",
     "TODO.md",
@@ -232,7 +237,6 @@
     "Old/ECE 452/Module 1.1.2/Redundancy.md",
     "Old/ECE 452/Module 1.1.2/Reducing Power (Density).md",
     "Old/ECE 452/Module 1.1.2/Post-Moore Era Innovations.md",
-    "Old/ECE 452/Module 1.1.2/Moore’s Law.md",
     "Old/ECE 452/Module 1.1.2/Images",
     "Old/ECE 452/Module 1.2",
     "Old/ECE 452/Module 1.1.2",
