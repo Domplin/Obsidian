@@ -9,6 +9,13 @@ What happens when $\beta_{n} \neq \beta_{p}$ $\Rightarrow$ It makes a "skewed" i
 $$
 r = \frac{\beta_{p}}{\beta_{n}}
 $$
+
+**Ideal:**
 $$
-V_{inv}= V_{DD}+V_{Tp}+V_{Tn}
+V_{inv}= \frac{V_{DD}+V_{Tp}+V_{Tn}\sqrt{ \frac{1}{r} }}{1+\sqrt{ \frac{1}{r} }}
+$$
+
+**Velocity Saturated**
+$$
+V_{inv}=\frac{V_{DD}+V_{Tp}}{}
 $$
