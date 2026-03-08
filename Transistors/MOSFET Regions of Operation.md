@@ -39,5 +39,8 @@ $$
 
 **Ideal Linear/Triode Region Equations**
 $$
-I_{DS}=\beta[(V_{GS}-V_{T})V_{DS}-V]
+I_{DS}=\beta\left[ (V_{GS}-V_{T})V_{DS}-\frac{V_{DS}}{2}^2 \right]
+$$
+$$
+\beta=\frac{\mu \epsilon_{ox}}{t_{ox}}\left( \frac{W}{L} \right)
 $$
