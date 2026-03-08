@@ -15,3 +15,8 @@ V_{GS}=0V \\
 0<V_{GS}<V_{T}:Ids = 0-\text{No chennel depletion region forming}
 \end{align}
 $$
+
+**Linear / Triode region**
+- $V_{GS}=V_{T}$ 
+- $V_{GD}=V_{GS}$
+- $V_{}$
