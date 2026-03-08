@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transistors/Gate Cpacitance.md",
+                "file": "Transistors/Parasitic Source and Drain Capacitance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gate Cpacitance"
+              "title": "Parasitic Source and Drain Capacitance"
             }
           }
         ]
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "924bac091ee98cbf",
@@ -209,10 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c332a89829698fba",
+  "active": "0bec7e469da7ebfe",
   "lastOpenFiles": [
-    "Transistors/Level 1 FET Model.md",
     "Transistors/Gate Cpacitance.md",
+    "Transistors/Parasitic Source and Drain Capacitance.md",
+    "Gate Cpacitance Table.png",
+    "Gate Cpacitance Diagram.png",
+    "Transistors/Level 1 FET Model.md",
     "Level 1 FET Model.png",
     "Transistors/MOSFET Regions of Operation.md",
     "Transistors/MOSFET - Current Flow for small V.md",
@@ -246,9 +248,6 @@
     "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320232927.png",
     "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320232723.png",
     "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320231503.png",
-    "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320230349.png",
-    "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250319223924.png",
-    "Old/ECE 452/Module 1.2/Workloads and Benchmarks.md",
     "Old/ECE 452/Module 1.2/Images",
     "Old/ECE 452/Module 1.1.2/Images",
     "Old/ECE 452/Module 1.2",
