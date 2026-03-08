@@ -4,6 +4,7 @@ tags:
   - lecture_4
 ---
 What happens when $\beta_{n} \neq \beta_{p}$ $\Rightarrow$ It makes a "skewed" inverter
+[[HI and LO-Skew]]
 
 
 $$
@@ -17,5 +18,5 @@ $$
 
 **Velocity Saturated**
 $$
-V_{inv}=\frac{V_{DD}+V_{Tp}}{}
+V_{inv}=\frac{V_{DD}+V_{Tp}+V_{Tn} \frac{1}{r}}{1+\frac{1}{r}}
 $$
