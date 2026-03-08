@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transistors/Dennard's Scaling Rules.md",
+                "file": "Transistors/MOSFET Regions of Operation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dennard's Scaling Rules"
+              "title": "MOSFET Regions of Operation"
             }
           }
         ]
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "924bac091ee98cbf",
@@ -211,9 +210,11 @@
   },
   "active": "0bec7e469da7ebfe",
   "lastOpenFiles": [
+    "Transistors/MOSFET - Current Flow for small V.md",
+    "Computer Memory/Memory Access Pattern.md",
+    "Transistors/Dennard's Scaling Rules.md",
     "Old/Differential equations/Summer/Chapter 1-2 - First Order Differential Equations/First order linear DE solution process.md",
     "Old/Differential equations/Summer/Chapter 1-2 - First Order Differential Equations/First order linear DE.md",
-    "Transistors/Dennard's Scaling Rules.md",
     "Old/Differential equations/Chapter 3/3.2 - Wronskian & Linear Independence.md",
     "Transistors/MOSFET Regions of Operation.md",
     "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Operations of complex numbers.md",
@@ -223,7 +224,6 @@
     "Transistors/Punch Through Leakage.md",
     "Transistors/NMOS vs PMOS.md",
     "Transistors/MOSFET - Current Flow.md",
-    "Transistors/MOSFET - Current Flow for small V.md",
     "Transistors/Diodes.md",
     "Transistors/Untitled.canvas",
     "Diodes - Depletion region.png",
@@ -247,7 +247,6 @@
     "Old/ECE 452/Module 1.2/Workloads and Benchmarks.md",
     "Old/ECE 452/Module 1.2/Response Time and Throughput.md",
     "Old/ECE 452/Module 1.2/Relative Performance.md",
-    "Old/ECE 452/Module 1.2/Processor Performance.md",
     "Old/ECE 452/Module 1.2/Images",
     "Old/ECE 452/Module 1.1.2/Images",
     "Old/ECE 452/Module 1.2",
