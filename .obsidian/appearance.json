@@ -2,5 +2,7 @@
   "accentColor": "",
   "baseFontSize": 20,
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "showViewHeader": false,
+  "showRibbon": true
 }
