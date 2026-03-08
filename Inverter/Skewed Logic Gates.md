@@ -9,3 +9,6 @@ The concept of [[Beta Ratios]] can be applied to gates more complex than an inve
 - For each input the worse case equivalent inverter by assuming a minimum  number of other inputs are set to sensitize the path 
 
 This needs to be done for pull-up and pull-down paths separately 
+- Remove all FETs of critical paths for the input
+	- **NOTE**: Always select FETs with the lowest W when there is a choice
+- Replace series FETs with
