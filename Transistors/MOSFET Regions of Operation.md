@@ -1,3 +1,9 @@
+---
+tags:
+  - ECE_571
+  - Lecture_2
+  - Equations
+---
 
 **Cutoff region**: 
 $$
