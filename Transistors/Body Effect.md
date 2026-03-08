@@ -1,3 +1,6 @@
 - A MOSFET is a four terminal device
 - Source may not be at same potential bulk
-- Effect of source-bulk bias is increased thre
+- Effect of source-bulk bias is increased threshold voltage 
+- $\gamma$ is body effect coefficient 
+- $N_{A}$ is density of carries in doped substrate 
+- $Ni$ is density of carries in intrinisi
