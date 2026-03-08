@@ -13,4 +13,6 @@ tags:
 - In order for hot carrier injection to happen the transistor usually operated in a high-bias region ($V_{GS}> V_{T}, V_{DS}>0.9*V_{DD}$)
 - If a transistor in circuits that
 	- sink DC current
-	- 
+	- subject to slow edge rate
+	Are Candidates for hot electron degradation 
+- The common circuit structures susceptible to the hot electron probl
