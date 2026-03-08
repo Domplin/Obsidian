@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transistors/Diodes.md",
+                "file": "Transistors/Current Voltage For high V.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diodes"
+              "title": "Current Voltage For high V"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Lecture_1",
+                "query": "operation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "924bac091ee98cbf",
@@ -210,14 +211,19 @@
   },
   "active": "0bec7e469da7ebfe",
   "lastOpenFiles": [
-    "Diodes - Depletion region.png",
+    "6T-SRAM/6T-SRAM Operation.md",
+    "Transistors/Sub-threshold Swing.md",
+    "Transistors/Punch Through Leakage.md",
+    "Transistors/NMOS vs PMOS.md",
+    "Transistors/MOSFET - Current Flow.md",
+    "Transistors/MOSFET - Current Flow for small V.md",
     "Transistors/Diodes.md",
+    "Transistors/Untitled.canvas",
+    "Diodes - Depletion region.png",
     "Excalidraw/Drawing 2026-02-20 18.50.28.excalidraw.md",
     "6T-SRAM/6T-SRAM Hold Operation.md",
     "TODO.md",
-    "6T-SRAM/6T-SRAM Operation.md",
     "Excalidraw/2-19 Lectures.md",
-    "Transistors/Untitled.canvas",
     "Old/ECE 524/Recurrent Neural Networks and machine learning.md",
     "Old/ECE 524/Generative AI.md",
     "Old/ECE 524/Drawing 2024-09-03 11.00.39.excalidraw.md",
@@ -243,10 +249,6 @@
     "Old/ECE 452/Module 1.2/Defining Performance.md",
     "Old/ECE 452/Module 1.2/CPU Time.md",
     "Old/ECE 452/Module 1.1.2/Trends due to Technology Scaling.md",
-    "Old/ECE 452/Module 1.1.2/The Sea Change.md",
-    "Old/ECE 452/Module 1.1.2/Technology Scaling.md",
-    "Old/ECE 452/Module 1.1.2/Redundancy.md",
-    "Old/ECE 452/Module 1.1.2/Reducing Power (Density).md",
     "Old/ECE 452/Module 1.1.2/Images",
     "Old/ECE 452/Module 1.2",
     "Old/ECE 452/Module 1.1.2",
@@ -255,7 +257,6 @@
     "Old/ECE 452",
     "Old/ECE 303",
     "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images/Figure 9.3.png",
-    "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images/Figure 9.2.png",
     "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images"
   ]
 }
