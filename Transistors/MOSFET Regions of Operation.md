@@ -47,4 +47,11 @@ $$
 - $\mu$ - Carrier mobility
 - $\epsilon_{ox}$ - Permittivity of gate oxide layer
 - $t_{ox}$ - Thickness of gate oxide layer
-- 
+- W - channel width
+- L - channel length
+
+
+*Ohmic Region special Case*: When near $V_{DS}=0$ 
+$$
+I_{DS}=\beta(G)
+$$
