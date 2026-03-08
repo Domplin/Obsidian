@@ -26,5 +26,7 @@ A_{p}=\frac{1}{\frac{1}{4}+\frac{1}{4}}=2
 $$
 - Pull down  network:
 $$
-A_{}
+A_{n}=\frac{1}{\frac{1}{2}+\frac{1}{2}}=1
 $$
+![[Skewed Logic Gates Example 2.png]]
+- 
