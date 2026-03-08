@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transistors/Current Voltage For high V.md",
+                "file": "Transistors/Dennard's Scaling Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Voltage For high V"
+              "title": "Dennard's Scaling Rules"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "operation",
+                "query": "linear ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,6 +211,13 @@
   },
   "active": "0bec7e469da7ebfe",
   "lastOpenFiles": [
+    "Old/Differential equations/Summer/Chapter 1-2 - First Order Differential Equations/First order linear DE solution process.md",
+    "Old/Differential equations/Summer/Chapter 1-2 - First Order Differential Equations/First order linear DE.md",
+    "Transistors/Dennard's Scaling Rules.md",
+    "Old/Differential equations/Chapter 3/3.2 - Wronskian & Linear Independence.md",
+    "Transistors/MOSFET Regions of Operation.md",
+    "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Operations of complex numbers.md",
+    "Transistors/Current Voltage For high V.md",
     "6T-SRAM/6T-SRAM Operation.md",
     "Transistors/Sub-threshold Swing.md",
     "Transistors/Punch Through Leakage.md",
@@ -241,14 +248,7 @@
     "Old/ECE 452/Module 1.2/Response Time and Throughput.md",
     "Old/ECE 452/Module 1.2/Relative Performance.md",
     "Old/ECE 452/Module 1.2/Processor Performance.md",
-    "Old/ECE 452/Module 1.2/Performance in Computing Systems.md",
-    "Old/ECE 452/Module 1.2/Performance Summary.md",
-    "Old/ECE 452/Module 1.2/Measuring Execution Time.md",
-    "Old/ECE 452/Module 1.2/Instruction Count and CPI.md",
     "Old/ECE 452/Module 1.2/Images",
-    "Old/ECE 452/Module 1.2/Defining Performance.md",
-    "Old/ECE 452/Module 1.2/CPU Time.md",
-    "Old/ECE 452/Module 1.1.2/Trends due to Technology Scaling.md",
     "Old/ECE 452/Module 1.1.2/Images",
     "Old/ECE 452/Module 1.2",
     "Old/ECE 452/Module 1.1.2",
