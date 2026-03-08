@@ -26,4 +26,9 @@ $$
 
 - $V_{GS}>V_{T}$
 - $V_{GS}>V_{GD}>V_{T}$
-- $0<V_{DS}<V_{GS}$
+- $0<V_{DS}<V_{GS}-V_{T}$
+- $I_{dS}>0$ - Increases linearly with $V_{DS}$ when $V_{DS}$ close to 0
+- Also called the "Ohmic" region
+
+**Saturation Region**
+- $V_{GS}$
