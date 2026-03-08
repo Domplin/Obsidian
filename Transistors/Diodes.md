@@ -20,4 +20,4 @@ $$
 *Where:*
 - $V_{t}$ = Thermal Voltage (kT/q, about 26mV at normal temperatures )
 - $I_{s}$ = Saturation current (the magnitude of the current that flows for negative Vd in excess of a few Vt, typically $10^{-12}$A)
-
+- n= Ideality factor (usually between 1 and 2) 
