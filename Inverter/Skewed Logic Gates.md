@@ -11,4 +11,5 @@ The concept of [[Beta Ratios]] can be applied to gates more complex than an inve
 This needs to be done for pull-up and pull-down paths separately 
 - Remove all FETs of critical paths for the input
 	- **NOTE**: Always select FETs with the lowest W when there is a choice
-- Replace series FETs with
+- Replace series FETs of $W_{1}$ and $W_{2}$ with a single FET of $W=\frac{1}{\frac{1}{W_{1}}+\frac{1}{W2}}$
+- Replace parallel FETs of $W_{1}$ and $W_{2}$ with a single FET of $$
