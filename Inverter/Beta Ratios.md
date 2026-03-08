@@ -24,4 +24,5 @@ $$
 
 
 **$\beta$ in VLSI CMOS** 
-- The beta ration in CMOS is determined completely by the mobilities 
+- The beta ration in CMOS is determined completely by the mobilities ($\mu_{n},\mu_{p}$) and the aspect ratios (W/L) of the FETs
+- This is because $C_{ox}$ can be assumed ot 
