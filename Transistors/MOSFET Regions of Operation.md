@@ -31,4 +31,8 @@ $$
 - Also called the "Ohmic" region
 
 **Saturation Region**
-- $V_{GS}$
+- $V_{GS}>V_{T}$
+- $V_{GD}<V_{T}$
+- $V_{DS}>V_{GS}-V_{T}$
+- Channel pinched off 
+- $I_{DS}$ independent of $V_{DS}$ (ideally)
