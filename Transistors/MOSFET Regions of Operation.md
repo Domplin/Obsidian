@@ -19,4 +19,11 @@ $$
 **Linear / Triode region**
 - $V_{GS}=V_{T}$ 
 - $V_{GD}=V_{GS}$
-- $V_{}$
+- $V_{DS}=0$
+- $Ids=0$
+- n-Channel formed 
+
+
+- $V_{GS}>V_{T}$
+- $V_{GS}>V_{GD}>V_{T}$
+- $0<V_{DS}<V_{GS}$
