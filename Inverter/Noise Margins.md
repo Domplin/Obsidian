@@ -20,4 +20,8 @@ It is important to know the allowable voltage range on the input such that the o
 
 - Want noise margins as large as possible 
 	- Want the forbidden zone to be small
-	- Want the difference 
+	- Want the difference between VIL and VIH to be small
+	- Want these centered on the midpoint between VOH and VOL
+	- Want a high gain in the transition region between VOH and VOL
+
+- Typically use unity gain points to define our logic levels 
