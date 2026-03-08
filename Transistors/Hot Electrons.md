@@ -7,4 +7,7 @@ tags:
 - Hot electrons can dislodge holes in the drain region - The dislodged holes are then swept toward the negatively charged substrate to become part of a substrate current
 - High substrate current can accidentally discharge dynamic storage nodes in a circuit 
 - Holt electrons can also penetrate the gate oxide, causing a gate current
-- High gate current will degrade the MOS transistor in terms of its threshold voltage and transc
+- High gate current will degrade the MOS transistor in terms of its threshold voltage and trans conductance
+- Hot holes do not normally present a problem because of their lower mobility 
+- Assuming the continuing need for aggressive scaling the problem of hot electrons will further push down the supply voltage 
+- In order for hot carrier injection ot happen the tr
