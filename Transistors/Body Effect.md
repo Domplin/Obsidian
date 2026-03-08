@@ -1,0 +1,3 @@
+- A MOSFET is a four terminal device
+- Source may not be at same potential bulk
+- Effect of source-bulk bias is increased thre
