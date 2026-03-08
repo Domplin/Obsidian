@@ -61,4 +61,4 @@ $$
 $$
 I_{DS}=\beta\frac{(V_{GS}-V_{T})^2}{2}
 $$
-*Note*: $(V_{GS})$
+*Note*: $(V_{GS}-V_{T})$ is sometimes referred to as the overdrive voltage ($V_{GT}$ or $V_{OD}$)
