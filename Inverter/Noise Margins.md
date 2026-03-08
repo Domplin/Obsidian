@@ -11,4 +11,13 @@ It is important to know the allowable voltage range on the input such that the o
 
 - Define NMH as the HIGH noise margin
 	- Difference between minimum HIGH output voltage produced by a driving gate and the minimum HIGH input voltage 
-		- $NMH=VOH-VIH$
+	- $NMH=VOH-VIH$
+
+
+
+![[Noise Margins.png]]
+
+
+- Want noise margins as large as possible 
+	- Want the forbidden zone to be small
+	- Want the difference 
