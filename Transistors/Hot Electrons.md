@@ -15,4 +15,9 @@ tags:
 	- sink DC current
 	- subject to slow edge rate
 	Are Candidates for hot electron degradation 
-- The common circuit structures susceptible to the hot electron probl
+- The common circuit structures susceptible to the hot electron problem include:
+	- pseudo-NMOS gates
+	- output drivers
+	- input drivers
+	- clock circuits
+	- bidirectional pass transistors 
