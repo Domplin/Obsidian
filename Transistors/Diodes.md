@@ -18,6 +18,6 @@ $$
 I = I_{s}(e^{\frac{V_{d}}{nV_{t}}}-1)
 $$
 *Where:*
-- $V_{t}$ = Thermal Voltage (kT/q, about 26mV at n)
-
+- $V_{t}$ = Thermal Voltage (kT/q, about 26mV at normal temperatures )
+- $I_{s}$ = Saturation current (the magnitude of the current that flows for negative Vd in excess of a few Vt, typically $10^{-12}$A)
 
