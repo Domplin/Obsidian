@@ -12,5 +12,5 @@ $$
 \Phi_{b}=\frac{kT}{q}\ln\left( \frac{N_{A}}{N_{i}} \right)
 $$
 $$
-\gamma=\frac{t_{ox}}{}
+\gamma=\frac{t_{ox}}{\epsilon_{ox}}\sqrt{ 2q \epsilon_{si}N_{A} }
 $$

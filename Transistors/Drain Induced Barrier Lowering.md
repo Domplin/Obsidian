@@ -9,3 +9,7 @@ tags:
 - Part of channel surface already depleted
 - Lowered barrier reduces $V_{T}$ which then increases leakage current 
 ![[Drain Induced Barrier Lowering.png]]
+
+$$
+V_{T}=V_{T0}-n
+$$
