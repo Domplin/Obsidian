@@ -44,3 +44,7 @@ $$
 $$
 \beta=\frac{\mu \epsilon_{ox}}{t_{ox}}\left( \frac{W}{L} \right)
 $$
+- $\mu$ - Carrier mobility
+- $\epsilon_{ox}$ - Permittivity of gate oxide layer
+- $t_{ox}$ - Thickness of gate oxide layer
+- 
