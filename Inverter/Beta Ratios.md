@@ -20,3 +20,8 @@ $$
 $$
 V_{inv}=\frac{V_{DD}+V_{Tp}+V_{Tn} \frac{1}{r}}{1+\frac{1}{r}}
 $$
+
+
+
+**$\beta$ in VLSI CMOS** 
+- The beta ration in CMOS is determined completely by the mobilities 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverter/HI and LO-Skew.md",
+                "file": "Inverter/Beta Ratios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HI and LO-Skew"
+              "title": "Beta Ratios"
             }
           },
           {
@@ -224,10 +224,10 @@
   },
   "active": "0bec7e469da7ebfe",
   "lastOpenFiles": [
+    "Inverter/HI and LO-Skew.md",
     "HI and LO-Skew.png",
     "Transistors/Drain Induced Barrier Lowering.md",
     "Inverter/Beta Ratios.md",
-    "Inverter/HI and LO-Skew.md",
     "Old/Differential equations/Summer/Chapter 3 - Second Order Differential Equations/3.4 Repeated roots.md",
     "Excalidraw/2-19 Lectures.md",
     "Inverter/Inverter Thresholds.md",
@@ -262,7 +262,6 @@
     "Old/ECE 452/Module 1.2/Images/Pasted image 20250321020245.png",
     "Old/ECE 452/Module 1.2/Images/Pasted image 20250320233709.png",
     "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320232927.png",
-    "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320232723.png",
     "Old/ECE 452/Module 1.2/Images",
     "Old/ECE 452/Module 1.1.2/Images",
     "Old/ECE 452/Module 1.2",
