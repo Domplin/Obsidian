@@ -22,5 +22,9 @@ This needs to be done for pull-up and pull-down paths separately
 - For path A $B_{p}$ and $C_{n}$ are ignored removing them
 - Pull up network:
 $$
-A_{p}=\frac{1}{1}
+A_{p}=\frac{1}{\frac{1}{4}+\frac{1}{4}}=2
+$$
+- Pull down  network:
+$$
+A_{}
 $$
