@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "45e2581ae98950a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ef38a4b7f0c820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bec7e469da7ebfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transistors/Diodes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diodes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dd72642a8bc84d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f1442c8cc040103",
+        "type": "tabs",
+        "dimension": 81.81818181818181,
+        "children": [
+          {
+            "id": "a1c9f0e38f8701ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c332a89829698fba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Lecture_1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8bfe7e31549df73a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "924bac091ee98cbf",
+        "type": "tabs",
+        "dimension": 18.18181818181818,
+        "children": [
+          {
+            "id": "12d68cb50867fa71",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.50643157958984
+  },
+  "right": {
+    "id": "80e576db9fc113b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6314f2346fa33e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04125d8fd103420",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ECE 456 HW 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ECE 456 HW 2"
+            }
+          },
+          {
+            "id": "6023620920d1c589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ECE 456 HW 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ECE 456 HW 2"
+            }
+          },
+          {
+            "id": "9c223612f4930815",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a47800c03e248f07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODO"
+            }
+          },
+          {
+            "id": "b9fc0f56d7d7e40b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "3acc6c297311a65d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0bec7e469da7ebfe",
+  "lastOpenFiles": [
+    "Diodes - Depletion region.png",
+    "Transistors/Diodes.md",
+    "Excalidraw/Drawing 2026-02-20 18.50.28.excalidraw.md",
+    "6T-SRAM/6T-SRAM Hold Operation.md",
+    "TODO.md",
+    "6T-SRAM/6T-SRAM Operation.md",
+    "Excalidraw/2-19 Lectures.md",
+    "Transistors/Untitled.canvas",
+    "Old/ECE 524/Recurrent Neural Networks and machine learning.md",
+    "Old/ECE 524/Generative AI.md",
+    "Old/ECE 524/Drawing 2024-09-03 11.00.39.excalidraw.md",
+    "Old/ECE 524/Drawing 2024-08-29 11.00.53.excalidraw.md",
+    "Old/ECE 524",
+    "Old/ECE 452/Module 1.2/Images/Pasted image 20250321163307.png",
+    "Old/ECE 452/Module 1.2/Images/Pasted image 20250321020245.png",
+    "Old/ECE 452/Module 1.2/Images/Pasted image 20250320233709.png",
+    "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320232927.png",
+    "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320232723.png",
+    "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320231503.png",
+    "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250320230349.png",
+    "Old/ECE 452/Module 1.1.2/Images/Pasted image 20250319223924.png",
+    "Old/ECE 452/Module 1.2/Workloads and Benchmarks.md",
+    "Old/ECE 452/Module 1.2/Response Time and Throughput.md",
+    "Old/ECE 452/Module 1.2/Relative Performance.md",
+    "Old/ECE 452/Module 1.2/Processor Performance.md",
+    "Old/ECE 452/Module 1.2/Performance in Computing Systems.md",
+    "Old/ECE 452/Module 1.2/Performance Summary.md",
+    "Old/ECE 452/Module 1.2/Measuring Execution Time.md",
+    "Old/ECE 452/Module 1.2/Instruction Count and CPI.md",
+    "Old/ECE 452/Module 1.2/Images",
+    "Old/ECE 452/Module 1.2/Defining Performance.md",
+    "Old/ECE 452/Module 1.2/CPU Time.md",
+    "Old/ECE 452/Module 1.1.2/Trends due to Technology Scaling.md",
+    "Old/ECE 452/Module 1.1.2/The Sea Change.md",
+    "Old/ECE 452/Module 1.1.2/Technology Scaling.md",
+    "Old/ECE 452/Module 1.1.2/Redundancy.md",
+    "Old/ECE 452/Module 1.1.2/Reducing Power (Density).md",
+    "Old/ECE 452/Module 1.1.2/Images",
+    "Old/ECE 452/Module 1.2",
+    "Old/ECE 452/Module 1.1.2",
+    "Old/ECE 452/Module 1.1.1",
+    "Old/ECE 452/Midterm",
+    "Old/ECE 452",
+    "Old/ECE 303",
+    "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images/Figure 9.3.png",
+    "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images/Figure 9.2.png",
+    "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images"
+  ]
+}
