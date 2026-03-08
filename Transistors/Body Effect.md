@@ -3,4 +3,8 @@
 - Effect of source-bulk bias is increased threshold voltage 
 - $\gamma$ is body effect coefficient 
 - $N_{A}$ is density of carries in doped substrate 
-- $Ni$ is density of carries in intrinisi
+- $Ni$ is density of carries in intrinsic Si ($1.45*10^{10}cm^{-3}$ at 300k)
+
+$$
+V_{T}= V_{TO}+\gamma \lfloor \sqrt{  } \rfloor 
+$$
