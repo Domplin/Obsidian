@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transistors/Hot Electrons.md",
+                "file": "Inverter/Inverter Thresholds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hot Electrons"
+              "title": "Inverter Thresholds"
             }
           }
         ],
@@ -225,19 +225,22 @@
   },
   "active": "d51c1d55328ff72b",
   "lastOpenFiles": [
-    "Transistors/Junction Leakage.md",
     "Transistors/Hot Electrons.md",
+    "Inverter/Inverter Thresholds.md",
+    "Inverter",
+    "Untitled.md",
+    "Transistors/Junction Leakage.md",
     "Transistors/MOSFET leakage - Sub-threshold Leakage.md",
     "Transistors/Drain Induced Barrier Lowering.md",
     "Transistors/Body Effect.md",
     "Transistors/Simplified Capacitance Model.md",
     "Transistors/Parasitic Source and Drain Capacitance.md",
-    "Parasitic Source and Drain Capacitance Diagram.png",
+    "Transistors/images/Parasitic Source and Drain Capacitance Diagram.png",
     "Transistors/Gate Cpacitance.md",
-    "Gate Cpacitance Table.png",
-    "Gate Cpacitance Diagram.png",
+    "Transistors/images/Gate Cpacitance Table.png",
+    "Transistors/images/Gate Cpacitance Diagram.png",
     "Transistors/Level 1 FET Model.md",
-    "Level 1 FET Model.png",
+    "Transistors/images/Level 1 FET Model.png",
     "Transistors/MOSFET Regions of Operation.md",
     "Transistors/MOSFET - Current Flow for small V.md",
     "Computer Memory/Memory Access Pattern.md",
@@ -255,8 +258,6 @@
     "Transistors/Diodes.md",
     "Transistors/Untitled.canvas",
     "Transistors/images/Diodes - Depletion region.png",
-    "Excalidraw/Drawing 2026-02-20 18.50.28.excalidraw.md",
-    "6T-SRAM/6T-SRAM Hold Operation.md",
     "Old/ECE 524",
     "Old/ECE 452/Module 1.2/Images/Pasted image 20250321163307.png",
     "Old/ECE 452/Module 1.2/Images/Pasted image 20250321020245.png",
@@ -270,7 +271,6 @@
     "Old/ECE 452/Module 1.1.1",
     "Old/ECE 452/Midterm",
     "Old/ECE 452",
-    "Old/ECE 303",
-    "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images"
+    "Old/ECE 303"
   ]
 }
