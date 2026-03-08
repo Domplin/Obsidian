@@ -18,5 +18,8 @@ $$
 C_{SB}=(WD)C_{jbs}+(2W+2D)C_{jbssw}
 $$
 $$
-C_{jbs}=C_{j}\left( 1+ \frac{V_{SB}}{Lab} \right)
+C_{jbs}=C_{j}\left( 1+ \frac{V_{SB}}{\psi_{SW}} \right)
+$$
+$$
+C_{jbssw}=C_{JSW}\left( 1+ \frac{V_{SB}}{\psi_{SW}} \right)^{-M_{JSW}}
 $$
