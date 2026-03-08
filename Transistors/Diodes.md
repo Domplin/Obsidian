@@ -15,6 +15,9 @@ tags:
 **Diode I-V Equation**
 
 $$
-I = I_{s}(e^{\frac{V_{d}}{nV_{t}})
+I = I_{s}(e^{\frac{V_{d}}{nV_{t}}}-1)
 $$
+*Where:*
+- $V_{t}$ = Thermal Voltage (kT/q, about 26mV at n)
+
 
