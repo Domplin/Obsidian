@@ -32,5 +32,9 @@ $$
 
 - Due to $A_{p}$ and $B_{p}$ are in parallel the lower one is chosen
 $$
-C_{p}=\frac{1}{\frac{1}{4}+\frac{1}{2}}=\fr
+C_{p}=\frac{1}{\frac{1}{4}+\frac{1}{2}}=1.33
+$$
+- Since $C_{n}$ is alone it stays ignoring the other path 
+$$
+C_{n}=1
 $$
