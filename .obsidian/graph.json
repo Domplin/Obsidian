@@ -6,15 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#ECE_564  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.3,
@@ -25,6 +17,6 @@
   "repelStrength": 11.9484576337368,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11559720575665101,
-  "close": true
+  "scale": 0.21234227652810236,
+  "close": false
 }

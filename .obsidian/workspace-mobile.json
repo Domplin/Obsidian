@@ -11,14 +11,22 @@
             "id": "af326332a8d02f8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4f2188a21dc9e8a6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Transistors/Drain Induced Barrier Lowering.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-03-06 14.41.21.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Drain Induced Barrier Lowering"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-06 14.41.21.excalidraw"
             }
           }
         ]
@@ -163,9 +171,13 @@
   },
   "active": "af326332a8d02f8f",
   "lastOpenFiles": [
+    "Old/ECE 202/Chapter 14 - Frequency Function/14.5 Series Resonance/Half-Power Frequencies.md",
+    "Old/ECE 202/Chapter 14 - Frequency Function/14.5 Series Resonance/Quality Factor.md",
+    "Old/ECE 202/Chapter 14 - Frequency Function/14.5 Series Resonance/Series Resonance.md",
+    "Transistors/Drain Induced Barrier Lowering.md",
+    "Excalidraw/Drawing 2026-03-06 14.41.21.excalidraw.md",
     "Transistors/Untitled.canvas",
     "Untitled.base",
-    "Transistors/Drain Induced Barrier Lowering.md",
     "Transistors/Gate Leakage.md",
     "Old/Differential equations/Summer/Chapter 6 - The Laplace Transform/Computing Laplace Transform.md",
     "Excalidraw/Drawing 2026-02-20 18.50.28.excalidraw.md",
@@ -194,9 +206,6 @@
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Phasor with resistor.md",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Figure 9.10.png",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Sinusoid-phasor transformation.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Polar to Rectangular form.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Rectangular to Polar form.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Complex polar.md",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images",
     "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502213041.png",
     "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502210937.png",
