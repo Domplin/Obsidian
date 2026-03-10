@@ -1,0 +1,23 @@
+---
+tags:
+  - ECE_571
+  - Lecture_3
+---
+- With very short channel length and a high enough supply voltage, the electric field at the drain end of a transistor in saturation can be so high that electors are imparted with very high energy (hot)
+- Hot electrons can dislodge holes in the drain region - The dislodged holes are then swept toward the negatively charged substrate to become part of a substrate current
+- High substrate current can accidentally discharge dynamic storage nodes in a circuit 
+- Holt electrons can also penetrate the gate oxide, causing a gate current
+- High gate current will degrade the MOS transistor in terms of its threshold voltage and trans conductance
+- Hot holes do not normally present a problem because of their lower mobility 
+- Assuming the continuing need for aggressive scaling the problem of hot electrons will further push down the supply voltage 
+- In order for hot carrier injection to happen the transistor usually operated in a high-bias region ($V_{GS}> V_{T}, V_{DS}>0.9*V_{DD}$)
+- If a transistor in circuits that
+	- sink DC current
+	- subject to slow edge rate
+	Are Candidates for hot electron degradation 
+- The common circuit structures susceptible to the hot electron problem include:
+	- pseudo-NMOS gates
+	- output drivers
+	- input drivers
+	- clock circuits
+	- bidirectional pass transistors 
