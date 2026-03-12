@@ -40,9 +40,21 @@
               "icon": "excalidraw-icon",
               "title": "Ece 571 midterm 1"
             }
+          },
+          {
+            "id": "9839aca7aba5550e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-12 12.33.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-12 12.33.39.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,7 +82,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#excalidraw",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -105,7 +117,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e429738adcc9db87",
@@ -182,10 +194,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ec7797ee49adb3c",
+  "active": "9839aca7aba5550e",
   "lastOpenFiles": [
-    "Excalidraw/Ece 571 lecture 15.md",
+    "Excalidraw/Drawing 2026-03-12 12.33.39.excalidraw.md",
     "Excalidraw/Ece 571 midterm 1.md",
+    "Excalidraw/Ece 571 lecture 15.md",
     "Transistors/Simplified Capacitance Model.md",
     "Transistors/Parasitic Source and Drain Capacitance.md",
     "Transistors/MOSFET Regions of Operation.md",
@@ -223,7 +236,6 @@
     "Old/ECE 452/Midterm/Equations.md",
     "TODO.md",
     "Old",
-    "Excalidraw/EECE 451 Lecture 1.md",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images/Figure 9.3.png",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.7 Impedance Combinations",
