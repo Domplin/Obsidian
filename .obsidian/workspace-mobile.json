@@ -23,13 +23,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-06 14.41.21.excalidraw.md"
+                "file": "Excalidraw/Ece 571 lecture 15.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-06 14.41.21.excalidraw"
+              "title": "Ece 571 lecture 15"
+            }
+          },
+          {
+            "id": "0ec7797ee49adb3c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Ece 571 midterm 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ece 571 midterm 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +182,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af326332a8d02f8f",
+  "active": "0ec7797ee49adb3c",
   "lastOpenFiles": [
+    "Excalidraw/Ece 571 lecture 15.md",
+    "Excalidraw/Ece 571 midterm 1.md",
+    "Transistors/Simplified Capacitance Model.md",
+    "Transistors/Parasitic Source and Drain Capacitance.md",
+    "Transistors/MOSFET Regions of Operation.md",
+    "Transistors/Level 1 FET Model.md",
+    "Transistors/images/Parasitic Source and Drain Capacitance Diagram.png",
+    "Transistors/images/Level 1 FET Model.png",
+    "Transistors/images/Gate Cpacitance Table.png",
+    "Transistors/images/Gate Cpacitance Diagram.png",
+    "Transistors/images/Diodes - Depletion region.png",
+    "Transistors/Hot Electrons.md",
+    "Transistors/Gate Cpacitance.md",
+    "Transistors/Diodes.md",
+    "Transistors/Body Effect.md",
+    "Inverter/images/Skewed Logic Gates Example 2.png",
+    "Inverter/images/Noise Margins.png",
+    "Inverter/Skewed Logic Gates.md",
+    "Inverter/Noise Margins.md",
+    "Inverter/Inverter Thresholds.md",
+    "Inverter/images/Skewed Logic Gates Example 1.png",
+    "Inverter/images/HI and LO-Skew.png",
+    "Inverter/images",
+    "Inverter/HI and LO-Skew.md",
+    "Inverter/Beta Ratios.md",
+    "Inverter",
     "Old/ECE 202/Chapter 14 - Frequency Function/14.5 Series Resonance/Half-Power Frequencies.md",
     "Old/ECE 202/Chapter 14 - Frequency Function/14.5 Series Resonance/Quality Factor.md",
     "Old/ECE 202/Chapter 14 - Frequency Function/14.5 Series Resonance/Series Resonance.md",
     "Transistors/Drain Induced Barrier Lowering.md",
-    "Excalidraw/Drawing 2026-03-06 14.41.21.excalidraw.md",
     "Transistors/Untitled.canvas",
     "Untitled.base",
     "Transistors/Gate Leakage.md",
@@ -186,38 +224,13 @@
     "TODO.md",
     "Old",
     "Excalidraw/EECE 451 Lecture 1.md",
-    "ECE 452/Drawing 2025-01-21 11.33.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-18 16.07.09.excalidraw.md",
-    "Excalidraw/Emerging trends.md",
-    "Excalidraw/Drawing 2025-08-26 13.33.23.excalidraw.md",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images/Figure 9.3.png",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images/Figure 9.2.png",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images/Figure 9.1.png",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.7 Impedance Combinations/Impedance Combinations.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.7 Impedance Combinations/Figure 9.18.png",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.7 Impedance Combinations/Figure 9.6.png",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance/Impedance and admittance of elements.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance/Admittance.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance/Ohm's Law in Phasor Form.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance/Impedance.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Phasor with Inductor.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Phasor with Capacitor.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Current Relationships.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Phasor with resistor.md",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements/Figure 9.10.png",
-    "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Sinusoid-phasor transformation.md",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids/Images",
-    "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502213041.png",
-    "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502210937.png",
-    "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193411.png",
-    "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images/Pasted image 20240502193217.png",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.7 Impedance Combinations",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.5 Impedance and Admittance",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.4 Phasor Relationships for Circuit Elements",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors",
     "Previous/ECE 202/Chapter 9 - Sinusoids and Phasors/9.2 Sinusoids",
-    "Previous/ECE 202/Chapter 8 - Second Order Circuits/Images",
-    "Previous/ECE 202/Chapter 8 - Second Order Circuits/8.6 Step Response of a Parallel RLC Circuit",
     "Untitled.canvas"
   ]
 }
