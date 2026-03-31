@@ -1,3 +1,8 @@
-.obsidian/
+.obsidian/*-DESKTOP-*.json
+.obsidian/*-LAPTOP-*.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/*conflict*.json
+.obsidian/graph.json
 .trash/
 .DS_Store
