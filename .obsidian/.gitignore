@@ -1,0 +1,6 @@
+*-DESKTOP-*.json
+*-LAPTOP-*.json
+workspace.json
+workspace-mobile.json
+*conflict*.json
+graph.json
