@@ -25,3 +25,4 @@ It is important to know the allowable voltage range on the input such that the o
 	- Want a high gain in the transition region between VOH and VOL
 
 - Typically use unity gain points to define our logic levels 
+	- Where slope of transfer curve is -1
