@@ -1,1 +1,1 @@
-=== Lecture 5- Slide 23
+=== Lecture 6 - slide 26 - ECE 571h

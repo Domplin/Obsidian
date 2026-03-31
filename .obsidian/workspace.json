@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9ef38a4b7f0c820",
+        "id": "d5069cf05e0323b0",
         "type": "tabs",
         "children": [
           {
-            "id": "0bec7e469da7ebfe",
+            "id": "375c6f7600c1f879",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "1eeaa719f2ba1579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,7 +48,7 @@
       {
         "id": "8f1442c8cc040103",
         "type": "tabs",
-        "dimension": 65.67164179104478,
+        "dimension": 83.68678629690048,
         "children": [
           {
             "id": "a1c9f0e38f8701ef",
@@ -54,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skew",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +95,7 @@
       {
         "id": "924bac091ee98cbf",
         "type": "tabs",
-        "dimension": 34.32835820895522,
+        "dimension": 16.31321370309951,
         "children": [
           {
             "id": "12d68cb50867fa71",
@@ -96,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.50643157958984
+    "width": 200
   },
   "right": {
     "id": "80e576db9fc113b6",
@@ -182,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,25 +209,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bec7e469da7ebfe",
+  "active": "1eeaa719f2ba1579",
   "lastOpenFiles": [
-    "Inverter/Beta Ratios.md",
     "TODO.md",
+    "conflict-files-obsidian-git.md",
+    "Transistors/CMOS Fabrication.md",
+    "Transistors/Multi-Stage Sizing.md",
+    "Multi-Stage Sizing.png",
+    "Transistors/FET Sizing Impacts.md",
+    "Transistors/images/FET Sizing Impacts.png",
+    "Transistors/Sizing MOSFETs.md",
     "Inverter/Noise Margins.md",
+    "Inverter/images/Equivalent Inverter - Example 2.png",
+    "Inverter/HI and LO-Skew.md",
+    "Inverter/Equivalent Inverter.md",
+    "Inverter/images/Equivalent Inverter - Example 1.png",
+    "Inverter/Beta Ratios.md",
+    "Inverter/Inverter Thresholds.md",
+    "Inverter/images/Skewed Logic Gates Example 2.png",
+    "Inverter/images/Noise Margins.png",
+    "Excalidraw/Ece 571 midterm 1.md",
+    "Excalidraw/Ece 571 lecture 15.md",
+    "Excalidraw/Drawing 2026-03-12 12.33.39.excalidraw.md",
     "Noise Margins.png",
     "Inverter/Skewed Logic Gates.md",
     "Skewed Logic Gates Example 2.png",
     "Inverter/images",
     "Inverter/images/Skewed Logic Gates Example 1.png",
-    "Inverter/HI and LO-Skew.md",
     "Inverter/images/HI and LO-Skew.png",
     "Transistors/Drain Induced Barrier Lowering.md",
     "Old/Differential equations/Summer/Chapter 3 - Second Order Differential Equations/3.4 Repeated roots.md",
     "Excalidraw/2-19 Lectures.md",
-    "Inverter/Inverter Thresholds.md",
     "Transistors/Hot Electrons.md",
     "Inverter",
     "Untitled.md",
@@ -221,24 +252,9 @@
     "Transistors/Body Effect.md",
     "Transistors/Simplified Capacitance Model.md",
     "Transistors/Parasitic Source and Drain Capacitance.md",
-    "Transistors/images/Parasitic Source and Drain Capacitance Diagram.png",
     "Transistors/Gate Cpacitance.md",
-    "Transistors/images/Gate Cpacitance Table.png",
-    "Transistors/images/Gate Cpacitance Diagram.png",
-    "Transistors/Level 1 FET Model.md",
-    "Transistors/images/Level 1 FET Model.png",
-    "Transistors/MOSFET Regions of Operation.md",
-    "Transistors/MOSFET - Current Flow for small V.md",
-    "Computer Memory/Memory Access Pattern.md",
-    "Transistors/Dennard's Scaling Rules.md",
-    "Old/Differential equations/Summer/Chapter 1-2 - First Order Differential Equations/First order linear DE solution process.md",
-    "Old/Differential equations/Summer/Chapter 1-2 - First Order Differential Equations/First order linear DE.md",
-    "Old/Differential equations/Chapter 3/3.2 - Wronskian & Linear Independence.md",
-    "Old/ECE 202/Chapter 9 - Sinusoids and Phasors/9.3 Phasors/Operations of complex numbers.md",
     "Transistors/Untitled.canvas",
-    "Transistors/images/Diodes - Depletion region.png",
     "Old/ECE 524",
-    "Old/ECE 452/Module 1.2/Images/Pasted image 20250321163307.png",
     "Old/ECE 452/Module 1.2/Images",
     "Old/ECE 452/Module 1.1.2/Images",
     "Old/ECE 452/Module 1.2",
