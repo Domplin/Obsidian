@@ -1,8 +1,16 @@
-.obsidian/*-DESKTOP-*.json
-.obsidian/*-LAPTOP-*.json
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+# ─── Device-specific workspace/window state ───
+.obsidian/workspace*.json
 .obsidian/*conflict*.json
 .obsidian/graph.json
+
+# ─── Device-specific settings ───
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+
+# ─── Protect plugin auth tokens ───
+.obsidian/plugins/obsidian-git/data.json
+
+# ─── Misc ───
 .trash/
 .DS_Store
