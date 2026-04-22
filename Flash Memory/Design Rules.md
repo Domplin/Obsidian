@@ -28,3 +28,21 @@ V_{FG}=V_{CG}\left( \frac{C_{box}}{C_{box}+C_{tox}} \right)+\frac{Q_{FG}}{C_{box
 $$
 Coupling Ratio: $\alpha=\left( \frac{C_{box}}{C_{box}+C_{tox}} \right)$
 
+
+
+**Summary**:
+![[Design Rules - Gate stack.png]]
+
+*Metal Gate*: 
+- High work function metal gate
+	- To prevent electron back-tunneling (Barrier height)
+- [[High-K Dielectric]] material 
+	- To prevent electron back-tunneling (electric field) high CBO* necessary for retention
+- Charge Trapping Material or FG
+	- (Stoichiometric: deep trap, si-rich: shallow trap)
+- Tunnel Oxide
+	- Thin to enable FN tunneling (PGM & Erase)
+	- Thick to prevent direct tunneling (Retention)
+
+
+**CBO** - (Conduction Band Offset)
