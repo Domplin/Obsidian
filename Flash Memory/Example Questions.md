@@ -1,3 +1,8 @@
+---
+tags:
+  - ECE_564
+  - lecture_10
+---
 
 
 **Question:** How many electrons need to be injection on FG to make $V_{T}$ (prog) = 1V
@@ -23,5 +28,6 @@ $$
 $$
 
 $$
-\text{Number of Electrons = } 
+\text{Number of Electrons = } \frac{8.6\times10^{-19}}{1.6\times10^{-19}}\approx 5
+
 $$

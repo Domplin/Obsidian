@@ -20,3 +20,5 @@ $$
 
 
 **Higher Coupling ratio reduces the program voltage**
+
+![[How to Improve Coupling Ratio.png]]
