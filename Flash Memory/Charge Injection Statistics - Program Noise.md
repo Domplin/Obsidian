@@ -10,4 +10,4 @@ tags:
 
 
 - When only a few elections control the $V_{T}$ state, their statistical fluctuations determine a non-negligible $V_{T}$ spread
-- Aggre
+- Aggressive scaling amplifies the impact of discrete nature of the charge stored in the floating gate
