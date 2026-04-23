@@ -14,7 +14,7 @@ tags:
 
 
 **Solution**:
-
+##
 $$
 \Delta V_{T}= \frac{\Delta Q_{FG}}{C_{box}}
 $$
@@ -35,7 +35,8 @@ $$
 
 
 
-[[[Random Telegraph Noise (RTN)]]
+
+[[Random Telegraph Noise (RTN)]]
 **Question**: What is the $\Delta V_{T}$ for single electron de-trapping
 - Assume - 20nm tech node, $t_{tox}=$ 7mn, Coupling ratio, $\alpha=0.65$ 
 $$
@@ -43,13 +44,16 @@ $$
 $$
 Gate area shrinks with technology scaling
 
-===
+
 **Solution**
-===
+##
 $$
 C_{ox}= \frac{A\epsilon_{sio_{2}}}{t_{ox}}= \frac{20^2 \times 10^{-14}\times 3.9 \times 8.8 \times 10^{-14}}{7 \times 10^{-7}}=19.6\times 10^{-19}F
 $$
 
 $$
-C_{box}= C_{ox} \times \frac{\alpha}{1-\alpha}=19.6 \times 10^{-19} \times \frac{0.65}{0.35}=36.4 \times 10^{}
+C_{box}= C_{ox} \times \frac{\alpha}{1-\alpha}=19.6 \times 10^{-19} \times \frac{0.65}{0.35}=36.4 \times 10^{-19}F
+$$
+$$
+\Delta V_{T}= \frac{1.6\times 10^{-19}}{36.4 \times 10^{-19}}=44mV
 $$
