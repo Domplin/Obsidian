@@ -19,4 +19,7 @@ Repeated PE cycles introduces traps in the tunnel oxide
 - Hot holes may get trapped in the oxide to do anode hole injection
 
 **Effects of trap charge in the oxide**
-- Tunneling efficiency reduces during both program and 
+- Tunneling efficiency reduces during both program and erase 
+![[Cell Reliability - Endurance.png]]
+
+

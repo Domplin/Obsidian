@@ -31,3 +31,9 @@ $$
 \text{Number of Electrons = } \frac{8.6\times10^{-19}}{1.6\times10^{-19}}\approx 5
 
 $$
+
+
+
+
+[[[Random Telegraph Noise (RTN)]]
+**Question**: What is the $$
