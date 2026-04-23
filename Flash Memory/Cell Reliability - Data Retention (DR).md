@@ -28,4 +28,21 @@ Possible [[Charge Loss Pathways]]
 	- Thermionic emission can take place at elevated temperatures
 
 - Worn-out Cell:
-	- Electrons stored in the oxi
+	- Electrons stored in the oxides or interface traps are vulnerable and escape soon
+	- Trap-assisted tunneling (TAT) also causes Charge loss
+
+
+**Temperature Dependence of Retention**
+	Retention loss is thermally activated. Leakage follows Arrhenius behavior:
+	$$
+	\text{Charge loss rate} \propto e^{-E_{a}/k_{B}T}
+	$$
+Accelerated Retention Test:
+- 10-year retention at $30^{\degree}C$ may degrade to weeks at $125^{\degree}F$ 
+*Acceleration Factor*: 
+$$
+A= \exp\left[ \frac{E_{a}}{k_{B}}\left( \frac{1}{T_{use}}-\frac{1}{T_{stress}} \right) \right]
+$$
+
+
+*Activation Energy*
