@@ -20,3 +20,12 @@ tags:
 - Program Vth level 
 
 Possible [[Charge Loss Pathways]]
+
+
+**Data retention depends on cell usage**
+- Fresh Cell:
+	- The intrinsic retention is mainly limited by direct tunneling through tunnel oxide
+	- Thermionic emission can take place at elevated temperatures
+
+- Worn-out Cell:
+	- Electrons stored in the oxi

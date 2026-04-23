@@ -13,3 +13,7 @@ tags:
 
 
 ![[Charge Loss Pathways.png]]
+
+
+[[Leakage Through Tunnel Oxide]]
+[[Leakage Through Blocking Oxide]]
