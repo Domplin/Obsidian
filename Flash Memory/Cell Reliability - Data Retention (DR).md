@@ -46,3 +46,17 @@ $$
 
 
 *Activation Energy*
+- $E_{a}=1.1V$
+- $T_{use}=\text{Room Temperature = 300k}$
+- $T_{stress}=\text{High temperature}=393K$
+- $k_{B}=\text{Boltzmann constant} = 8.167 \times 10^{-5}eV$ $K^{-1}$
+
+You measure time for data corruption ($t_{meas}$=1hrs) at high temperature, $T_{stress}$ 
+
+Convert the measured time for estimating the use time:
+$$
+t_{use}= A \times t_{meas}
+$$
+$$
+A=\exp\left( \frac{1.1}{k_{B}}\left( \frac{1}{300}-\frac{1}{393} \right) \right)=23610
+$$
