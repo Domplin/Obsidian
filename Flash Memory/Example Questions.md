@@ -57,3 +57,9 @@ $$
 $$
 \Delta V_{T}= \frac{1.6\times 10^{-19}}{36.4 \times 10^{-19}}=44mV
 $$
+
+
+
+[[Program Vt Distribution]]
+**Question**: How many electrons need to be injected on FG to make $V_{T}$ (prog) = 1V
+- Assume, $V_{T}$ (erase) = 0V, $t_{tox}$ = 8mn, $t_{box}$
