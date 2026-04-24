@@ -4,7 +4,7 @@ tags:
   - lecture_10
 ---
 
-
+[[Program Vt Distribution]]
 **Question:** How many electrons need to be injection on FG to make $V_{T}$ (prog) = 1V
 - Assume - $V_{T}$ (erase) = 0V, $t_{tox}$ = 8nm, $t_{box}$ = 16nm, Gate Area = 20mn x 20mn'
 - *note*: $\epsilon_{Si 02}$ = $3.9 \epsilon_0=3.9 \times 8.8 \times 10^{-14}$ F/cm
@@ -60,6 +60,3 @@ $$
 
 
 
-[[Program Vt Distribution]]
-**Question**: How many electrons need to be injected on FG to make $V_{T}$ (prog) = 1V
-- Assume, $V_{T}$ (erase) = 0V, $t_{tox}$ = 8mn, $t_{box}$
