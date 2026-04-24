@@ -10,5 +10,5 @@ tags:
 
 *System level issues for page update*:
 - Write only works on erased page
-- In-pace update of a page is not available 
+- [[In-place update]] of a page is not available 
 - Erase operation cannot be don on a single page
