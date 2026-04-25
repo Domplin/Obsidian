@@ -8,4 +8,11 @@ tags:
 - MLC - Multi level cell
 - TLC - Triple level cell
 
-![[Multi-Level Cell.png|272]]![[Multi-Level Cell-1.png]]
+
+
+**Logical Page Structure in SLC Storage**
+![[Multi-Level Cell.png|272]]
+![[Multi-Level Cell-1.png|404]]
+![[Multi-Level Cell-2.png|403]]
+
+- Endurance 100,000 s
