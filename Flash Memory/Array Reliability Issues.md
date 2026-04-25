@@ -20,4 +20,4 @@ tags:
 - Since the erase operation affects all cells located in one block at the same time, there is no relevant intra-block interference 
 - Leakage currents in the row decoder can degrade the boosted wordline potential, resulting in a soft erase on the programmed cells in the unselected blocks
 - Like in the [[Self-boosting]] program inhibit where the isolated NAND string is boosted by raising the word lines to high voltages, wordlines can be boosted to high voltages by the ramped potential of the shared p-well 
-- The electrically isolated wordlines of the uns
+- The electrically isolated wordlines of the unselected blocks are boosted according to the capacitance ration of $C_{cell}$ and the word line capacitance, while the word lines of the selected blocks are grounded
