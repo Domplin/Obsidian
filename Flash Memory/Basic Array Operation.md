@@ -36,4 +36,5 @@ tags:
 	- Precise control of $V_{th}$ placement 
 	- Avoid over-programming
 	- Maintain tight distribution of MLC/TLC/QLC ([[Multi-Level Cell]])
-	- 
+
+		To address these challenges, NAND flash uses the Incremental Set
