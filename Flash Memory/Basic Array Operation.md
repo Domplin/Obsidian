@@ -12,3 +12,10 @@ tags:
 - Write only works on erased page
 - [[In-place update]] of a page is not available 
 - Erase operation cannot be don on a single page
+
+
+
+
+**Read Operation**: Array biasing scheme
+- Read 1 page at a time ([[NAND Array Structure]])
+- Cell 
