@@ -18,4 +18,5 @@ tags:
 **Erase Disturb**
 - Erase disturb, unlike the program disturb, is not usually a large issue in NAND flash.
 - Since the erase operation affects all cells located in one block at the same time, there is no relevant intra-block interference 
-- Leakage 
+- Leakage currents in the row decoder can degrade the boosted wordline potential, resulting in a soft erase on the programmed cells in the unselected blocks
+- Like in the [[Self-boosting]] program inhibit where the isolated NAND string is boosted by raisng 
