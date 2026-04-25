@@ -18,3 +18,5 @@ $$
 
 
 
+**AND/OR: Triple Row Activation**
+![[Pasted image 20260424212413.png]]
