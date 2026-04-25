@@ -41,3 +41,5 @@ tags:
 
 
 **Erase Operation**
+NAND flash erase operations reset entire blocks of memory cells to a logical "1" state by applying a high negative voltage to the substrate, causing electrons to tunnel away from the floating gate
+- Unlike reading/writing
