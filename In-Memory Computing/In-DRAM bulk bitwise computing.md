@@ -62,4 +62,8 @@ $$
 	- These designated rows are chosen statically at design time
 - To perform a bulk bitwise AND or OR operation on two arbitrary source rows, out mechanism first copies the data of the source rows into the designated rows and performs the required TRA on the designated rows
 
-*As an example, to perform a bitwise AND/OR of two rows A and B, and store the resu*
+*As an example, to perform a bitwise AND/OR of two rows A and B, and store the result in row R, our mechanism performs the following steps*
+1) Copy data of row A to designated row T0
+2) Copy data of row B to designated row T1
+3) Initialize designated row T2 to 0
+4) Ac
