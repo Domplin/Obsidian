@@ -31,4 +31,9 @@ $$
 Final state of the bitline to be $V_{DD}$ if at lease two of the three cells are initially fully charged, and the final state to be 0, if at two of the three cells are initially fully empty
 
 
-**Charge Sharing Ca**
+**Charge Sharing Calculation**
+![[In-DRAM bulk bitwise computing - charge sharing calculation.png]]
+
+$$
+\text{If } \delta > 0:BL \rightarrow
+$$
