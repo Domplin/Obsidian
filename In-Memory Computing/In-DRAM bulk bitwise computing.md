@@ -35,5 +35,12 @@ Final state of the bitline to be $V_{DD}$ if at lease two of the three cells are
 ![[In-DRAM bulk bitwise computing - charge sharing calculation.png]]
 
 $$
-\text{If } \delta > 0:BL \rightarrow
+\text{If } \delta > 0:BL \rightarrow V_{DD}
+$$
+$$
+\text{If }\delta < 0: BL \rightarrow 0V
+$$
+Initial charge (before sensing) = Final charge (After sensing)
+$$
+\left( kC_{S}V_{DD}+C_{BL} \frac{V_{DD}}{2} \right)
 $$
