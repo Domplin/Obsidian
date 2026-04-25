@@ -34,4 +34,8 @@ Steps:
 
 **Bitwise OR operation** - With [[Multi-Level Cell]]s
 ![[In-FLASH bulk bitwise computing - MLC OR.png]]
-*Resu*
+*Result*: A OR B by MSB page read
+Steps:
+1) Operand A, B stored in LSB, MSB page
+2) Shift the $V_{ref0}$ with specific offsets (Read retry)
+3) Read the MSB Page
