@@ -18,4 +18,7 @@ tags:
 
 **Read Operation**: Array biasing scheme
 - Read 1 page at a time ([[NAND Array Structure]])
-- Cell 
+- Cell Bias Condition
+	- conducting = 1
+	- not conducting = 0
+- All the cells connected to a given word lin
