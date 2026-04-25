@@ -27,3 +27,8 @@ AB+BC+AC=C(A+B)+\bar{C}(AB)
 $$
 - Bitwise AND: C = 0
 - Bitwise OR: C = 1
+
+Final state of the bitline to be $V_{DD}$ if at lease two of the three cells are initially fully charged, and the final state to be 0, if at two of the three cells are initially fully empty
+
+
+**Charge Sharing Ca**
