@@ -45,5 +45,6 @@ $$
 \left( kC_{S}V_{DD}+C_{BL} \frac{V_{DD}}{2} \right)=(3C_{S}+C_{BL})\left( \frac{V_{DD}}{2}+\delta \right)
 $$
 $$
-\delta= \frac{kC_{s}CV_{DD}+C_{BL}V_{DD}/2/}{3}
+\delta= \frac{kC_{s}CV_{DD}+C_{BL}(V_{DD}/2)}{3C_{S}+C_{BL}}-\frac{V_{DD}}{2}=\frac{(2k-3)C_{s}}{6C_{s}+2C_{BL}}V_{DD}
+
 $$
