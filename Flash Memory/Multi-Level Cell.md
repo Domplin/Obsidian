@@ -11,7 +11,7 @@ tags:
 
 
 **Logical Page Structure in SLC Storage**
-![[Multi-Level Cell.png|272]]
+![[Flash Memory/images/Multi-Level Cell.png|272]]
 ![[Multi-Level Cell-1.png|404]]
 ![[Multi-Level Cell-2.png|403]]
 
@@ -25,3 +25,5 @@ tags:
 - The read time depends on the bit being read from
 	- The least significant bit (LSB) is the fastest - only one sense operation is required 
 	- The most significant bit (MSB) is the slowest - two sense amps are needed 
+
+
