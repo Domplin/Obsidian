@@ -26,3 +26,7 @@ tags:
 
 **Bitwise AND operation** - With [[Multi-Level Cell]]s
 ![[In-FLASH bulk bitwise computing - MLC AND.png]]
+*Result*: A AND B by LSB page read
+Steps:
+1) Operand A, B stored in LSB, MSB Page
+2) Shift the $V_{ref1}$ with specific offset (Read  re)
