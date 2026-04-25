@@ -17,5 +17,7 @@ The core Idea is to float the channel of unselected strings so the channel poten
 **Boosting Efficiency**
 Boosting efficiency is given by:
 $$
-\frac{\Delta V_{ch}}{V_{ppass}}=\frac{C_{cell}}{C_{cell}+C_{dep}}*\left[ \frac{N-1}{N}+\frac{1}{N} \frac{V_{pp}}{V_{ppass}}\right]= \frac{C_{cell}}{C_{cell}+C)_{}}
+\frac{\Delta V_{ch}}{V_{ppass}}=\frac{C_{cell}}{C_{cell}+C_{dep}}*\left[ \frac{N-1}{N}+\frac{1}{N} \frac{V_{pp}}{V_{ppass}}\right]= \frac{C_{cell}}{C_{cell}+C_{dep}}\left[ 1+\frac{1}{N}\left( \frac{V_{pp}}{V_{ppass}}-1 \right) \right]
 $$
+
+- The boosted channel potential can
