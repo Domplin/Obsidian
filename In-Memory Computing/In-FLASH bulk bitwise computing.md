@@ -29,4 +29,9 @@ tags:
 *Result*: A AND B by LSB page read
 Steps:
 1) Operand A, B stored in LSB, MSB Page
-2) Shift the $V_{ref1}$ with specific offset (Read  re)
+2) Shift the $V_{ref1}$ with specific offset (Read retry)
+3) Lead the LSB page
+
+**Bitwise OR operation** - With [[Multi-Level Cell]]s
+![[In-FLASH bulk bitwise computing - MLC OR.png]]
+*Resu*
