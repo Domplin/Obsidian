@@ -11,3 +11,11 @@ The core Idea is to float the channel of unselected strings so the channel poten
 3) The wordline voltage turns up ($V_{pgm}$)
 4) Because the channel is floating, capacitive  coupling between the wordlines and the channel boosts the channel potential - typically ~8-10V
 5) The net voltage across the tunnel oxide of the unselected cells becomes $V_{tunnel}=V_{pgm}-V_{channel-boost}$ 
+
+
+
+**Boosting Efficiency**
+Boosting efficiency is given by:
+$$
+\frac{\Delta V_{ch}}{}
+$$
