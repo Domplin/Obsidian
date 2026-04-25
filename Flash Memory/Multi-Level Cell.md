@@ -12,7 +12,7 @@ tags:
 
 **Logical Page Structure in SLC Storage**
 ![[Flash Memory/images/Multi-Level Cell.png|272]]
-![[Multi-Level Cell-1.png|404]]
+![[Flash Memory/images/Multi-Level Cell-1.png|404]]
 ![[Multi-Level Cell-2.png|403]]
 
 - Endurance: $100,000$ cycles
@@ -35,7 +35,9 @@ tags:
 *MLC page read*
 - LSB page read: 
 	- The Data "1 1 0 0" (LSB page) is written, and a single sense amplifier read operation can verify if the cells are in one of two voltage ranges 
+
+![[Multi-Level Cell-2.png]]
 - MSB page read:
 	- Decoding MSB page requires two sensing operations using two different read reference voltages.
 	- During first sensing ($V_{ref{0}}$ ) only cell 0 is decoded as "1" (conducting)
-	- During second sensing ($V_{ref 2}$) 
+	- During second sensing ($V_{ref 2}$), the conducting bits (cell 1 and cell 2) are decoded as zeros
