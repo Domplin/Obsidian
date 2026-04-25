@@ -48,6 +48,8 @@ $$
 \delta= \frac{kC_{s}CV_{DD}+C_{BL}(V_{DD}/2)}{3C_{S}+C_{BL}}-\frac{V_{DD}}{2}=\frac{(2k-3)C_{s}}{6C_{s}+2C_{BL}}V_{DD}
 
 $$
-**Limitations of triple row activation**
+**Limitations of triple row activation (TRA)**
 1) Weak sensing signal: Activating three cells reduces the voltage difference on the bitline, which can slow sensing or cause errors
-2) Process variation: Real cells have unequal capacita
+2) Process variation: Real cells have unequal capacitance and non-ideal behavior, affecting reliability
+3) Data destruction: TRA overwrites all three source cells, losing original data
+4) Charge leakage: Partially leaked cells may lead to incr
