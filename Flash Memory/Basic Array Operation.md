@@ -49,4 +49,9 @@ NAND flash erase operations reset entire blocks of memory cells to a logical "1"
 	*Key Aspects*
 	- Data is written and read in pages (4 KB - 16KB) is can only be erased in larger sizes (entire blocks instead of pages)
 	- A large negative voltage is applied to the control gate or a high positive voltage is applied to the substrate (p-well) - This triggers Fowler-Nordheim tunneling, forcing electrons out of the floating gate
-	- A successful erase sets all cells in the block to a "1" making is  
+	- A successful erase sets all cells in the block to a "1" making it ready for new programming 
+
+
+**Summary of array operation**
+
+![[Basic Array Operation - Summary.png]]
