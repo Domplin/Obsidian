@@ -11,4 +11,8 @@ tags:
 - Since Vref < Vpass, unselected wordlines are most severely affected 
 
 	*Read Disturb - Signatures*:
-	- Large numebr of 
+	- Large number of reads (> 1 million) are required to cause disturb 
+	- Most of the read disturb effects are observed on the erased memory cells
+	- Program states not affected much
+
+**Er**
