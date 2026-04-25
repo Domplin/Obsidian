@@ -42,4 +42,9 @@ tags:
 
 **Erase Operation**
 NAND flash erase operations reset entire blocks of memory cells to a logical "1" state by applying a high negative voltage to the substrate, causing electrons to tunnel away from the floating gate
-- Unlike reading/writing
+- Unlike reading/writing at the page level, erasure is done at the block level.
+- The erasing operation is slow and wears the memory cells over time 
+
+
+	*Key Aspects*
+	- 
