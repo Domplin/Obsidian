@@ -33,4 +33,5 @@ tags:
 - Program Latency: $600-1800\mu s$
 
 *MLC page read*
-
+- LSB page read: 
+	- The Data "1 1 0 0" (LSB page) is written, and a single sense amplifier read operation can verify if the cells are in one of two voltage ranges 
