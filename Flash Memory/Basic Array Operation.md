@@ -21,4 +21,10 @@ tags:
 - Cell Bias Condition
 	- conducting = 1
 	- not conducting = 0
-- All the cells connected to a given word lin
+- All the cells connected to a given word line are read simultaneously
+- Pass voltages need to be higher than the highest cell threshold voltage 
+
+
+
+**Page program operation**
+- All the cells connected to a given word line are pr
