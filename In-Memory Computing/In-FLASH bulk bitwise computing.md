@@ -10,3 +10,4 @@ tags:
 **Multi-Wordline Sensing (MWS)**: Bitwise AND
 - Intra-Block MWS
 	- Simultaneously activates multiple WLs in the same block
+		- Bitwise AND of the stored data in the WLs
