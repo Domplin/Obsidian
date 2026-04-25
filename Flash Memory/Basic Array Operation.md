@@ -35,4 +35,5 @@ tags:
 - Challenges in programming:
 	- Precise control of $V_{th}$ placement 
 	- Avoid over-programming
-	- Maintain tight distribution of MLC/TLC/QLC
+	- Maintain tight distribution of MLC/TLC/QLC ([[Multi-Level Cell]])
+	- 
