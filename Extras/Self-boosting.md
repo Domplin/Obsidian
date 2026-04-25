@@ -9,4 +9,5 @@ The core Idea is to float the channel of unselected strings so the channel poten
 1) Select gate source (SGS) is turned off - isolating the channel from the soruce line
 2) Select gate drain (SGD) is turned off - isolating the channel from the bitline
 3) The wordline voltage turns up ($V_{pgm}$)
-4) Because the channel is floating, capaciti
+4) Because the channel is floating, capacitive  coupling between the wordlines and the channel boosts the channel potential - typically ~8-10V
+5) The net voltage across the tunnel oxide of the unselected cells becomes $V_{tunnel}$
