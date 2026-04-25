@@ -8,4 +8,4 @@ tags:
 - MLC - Multi level cell
 - TLC - Triple level cell
 
-![[Pasted image 20260424201508.png]]
+![[Multi-Level Cell.png|272]]
