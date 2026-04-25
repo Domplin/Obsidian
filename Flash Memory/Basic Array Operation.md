@@ -27,4 +27,6 @@ tags:
 
 
 **Page program operation**
-- All the cells connected to a given word line are pr
+- All the cells connected to a given word line are programmed simultaneously 
+- All unselected word lines are biased with $V_{pass}$ voltage
+- High bit line voltage is used to pre-charge the NAND string to 
