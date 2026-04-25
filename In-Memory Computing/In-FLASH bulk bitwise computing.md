@@ -15,4 +15,7 @@ tags:
 - A bitline only reads as '1' when all the target cells store '1'
 	- Equivalent to the bitwise AND of all the target cells
 
-**Multi-Wordlin**
+**Multi-Wordline Sensing (MWS)**: Bitwise OR
+- Inter-Block MWS 
+	- Simultaneously activates multiple WLs in different blocks
+		- Bitwise OR of the stored data in the WLs
