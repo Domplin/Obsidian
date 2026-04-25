@@ -58,3 +58,6 @@ $$
 
 
 **Ambit-AND-OR**
+- Ambit reserves a set of designated rows in each subarray that are used to perform TRAs
+	- These designated rows are chosen statically at design time
+- To perform a bulk bitwise AND or OR operation on two arbitary
