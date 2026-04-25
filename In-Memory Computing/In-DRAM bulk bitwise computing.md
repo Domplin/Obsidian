@@ -52,4 +52,9 @@ $$
 1) Weak sensing signal: Activating three cells reduces the voltage difference on the bitline, which can slow sensing or cause errors
 2) Process variation: Real cells have unequal capacitance and non-ideal behavior, affecting reliability
 3) Data destruction: TRA overwrites all three source cells, losing original data
-4) Charge leakage: Partially leaked cells may lead to incr
+4) Charge leakage: Partially leaked cells may lead to incorrect results
+5) High hardware cost: requires simultaneous decoding of three rows, increasing controller and decoder complexity
+
+
+
+**Ambit-AND-OR**
