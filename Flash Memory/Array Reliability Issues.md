@@ -15,4 +15,7 @@ tags:
 	- Most of the read disturb effects are observed on the erased memory cells
 	- Program states not affected much
 
-**Er**
+**Erase Disturb**
+- Erase disturb, unlike the program disturb, is not usually a large issue in NAND flash.
+- Since the erase operation affects all cells located in one block at the same time, there is no relevant intra-block interference 
+- Leakage 
