@@ -15,4 +15,10 @@ tags:
 ![[Multi-Level Cell-1.png|404]]
 ![[Multi-Level Cell-2.png|403]]
 
-- Endurance 100,000 s
+- Endurance: $100,000$ cycles
+- Data Retention: 10 years
+- Read Latency: 25 $\mu s$
+- Program latency: $100-200\mu s$
+
+
+**Multi-Level Cell**
