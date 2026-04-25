@@ -27,3 +27,9 @@ tags:
 	- The most significant bit (MSB) is the slowest - two sense amps are needed 
 
 
+![[Multi-Level Cell.png]]
+
+- Endurance: $5000-10,000$ cycles
+- Data retention: $3-10$ years
+- Read Latency: $25-37\mu s$
+- Program Latency: $600-$
