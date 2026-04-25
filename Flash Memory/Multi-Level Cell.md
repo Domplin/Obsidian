@@ -25,11 +25,12 @@ tags:
 - The read time depends on the bit being read from
 	- The least significant bit (LSB) is the fastest - only one sense operation is required 
 	- The most significant bit (MSB) is the slowest - two sense amps are needed 
-
-
 ![[Multi-Level Cell.png]]
 
 - Endurance: $5000-10,000$ cycles
 - Data retention: $3-10$ years
 - Read Latency: $25-37\mu s$
-- Program Latency: $600-$
+- Program Latency: $600-1800\mu s$
+
+*MLC page read*
+
