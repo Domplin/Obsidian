@@ -21,4 +21,6 @@ tags:
 		- Bitwise OR of the stored data in the WLs
 ![[In-FLASH bulk bitwise computing - MWS OR.png]]
 - A bitline reads as '0' only when all the target cells store '0'
-	- Equivalent to the bitwise OR of all 
+	- Equivalent to the bitwise OR of all the target cells
+
+
