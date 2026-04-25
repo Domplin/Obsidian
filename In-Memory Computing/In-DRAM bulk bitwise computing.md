@@ -60,4 +60,6 @@ $$
 **Ambit-AND-OR**
 - Ambit reserves a set of designated rows in each subarray that are used to perform TRAs
 	- These designated rows are chosen statically at design time
-- To perform a bulk bitwise AND or OR operation on two arbitary
+- To perform a bulk bitwise AND or OR operation on two arbitrary source rows, out mechanism first copies the data of the source rows into the designated rows and performs the required TRA on the designated rows
+
+*As an example, to perform a bitwise AND/OR of two rows A and B, and store the resu*
