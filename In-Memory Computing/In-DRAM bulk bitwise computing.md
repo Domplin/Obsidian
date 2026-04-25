@@ -66,4 +66,5 @@ $$
 1) Copy data of row A to designated row T0
 2) Copy data of row B to designated row T1
 3) Initialize designated row T2 to 0
-4) Ac
+4) Activate designated rows T0, T1, and T2 simultaneously 
+5) Copy data of row T0 to row R
