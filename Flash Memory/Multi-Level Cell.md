@@ -23,4 +23,5 @@ tags:
 
 **Multi-Level Cell**
 - The read time depends on the bit being read from
-	- The least significant bit (LSB) is the fastest 
+	- The least significant bit (LSB) is the fastest - only one sense operation is required 
+	- The most significant bit (MSB) is the slowest - two sense amps are needed 
