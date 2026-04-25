@@ -19,4 +19,11 @@ $$
 
 
 **AND/OR: Triple Row Activation**
-![[Pasted image 20260424212413.png]]
+![[In-DRAM bulk bitwise computing - ANDOR.png]]
+
+Final State:
+$$
+AB+BC+AC=C(A+B)+\bar{C}(AB)
+$$
+- Bitwise AND: C = 0
+- Bitwise OR: C = 1
