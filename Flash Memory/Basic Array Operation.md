@@ -47,4 +47,5 @@ NAND flash erase operations reset entire blocks of memory cells to a logical "1"
 
 
 	*Key Aspects*
-	- Data is written and read in pages (4 KB - 16KB) is can only be erased in larger sizes (entire bl)
+	- Data is written and read in pages (4 KB - 16KB) is can only be erased in larger sizes (entire blocks instead of pages)
+	- A large negative voltage is applied to the control gate or a high positive voltage is applied to the substrate (p-well) - This triggers Fowler-Ned
