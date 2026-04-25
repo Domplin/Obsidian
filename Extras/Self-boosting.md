@@ -1,0 +1,1 @@
+Self boosting is a technique used in NAND flash memory to prevent program disturb on unselected c
