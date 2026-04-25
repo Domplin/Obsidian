@@ -8,4 +8,7 @@ tags:
 - Unselected wordlines have Vread applied to CG
 - Selected wordline has Vref applied to CG
 - Applied voltages cause unintended tunneling of charge
-- Since Vref < Vpass, unselected 
+- Since Vref < Vpass, unselected wordlines are most severely affected 
+
+	*Read Disturb - Signatures*:
+	- Large numebr of 
