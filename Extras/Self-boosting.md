@@ -21,4 +21,4 @@ $$
 $$
 
 - The boosted channel potential can be increased by minimizing the channel depletion capacitance $C_{dep}$ - Fully depleted SOI or gate all around cell concepts, where $C_{dep}$ is low, are featuring a very high boosting efficiency
-- The boosted channel potential in
+- The boosted channel potential increases with smaller string length N
