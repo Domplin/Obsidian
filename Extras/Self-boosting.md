@@ -20,4 +20,5 @@ $$
 \frac{\Delta V_{ch}}{V_{ppass}}=\frac{C_{cell}}{C_{cell}+C_{dep}}*\left[ \frac{N-1}{N}+\frac{1}{N} \frac{V_{pp}}{V_{ppass}}\right]= \frac{C_{cell}}{C_{cell}+C_{dep}}\left[ 1+\frac{1}{N}\left( \frac{V_{pp}}{V_{ppass}}-1 \right) \right]
 $$
 
-- The boosted channel potential can
+- The boosted channel potential can be increased by minimizing the channel depletion capacitance $C_{dep}$ - Fully depleted SOI or gate all around cell concepts, where $C_{dep}$ is low, are featuring a very high boosting efficiency
+- The boosted channel potential in
