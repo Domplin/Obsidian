@@ -11,3 +11,8 @@ tags:
 - Intra-Block MWS
 	- Simultaneously activates multiple WLs in the same block
 		- Bitwise AND of the stored data in the WLs
+![[In-FLASH bulk bitwise computing - MWS.png]]
+- A bitline only reads as '1' when all the target cells store '1'
+	- Equivalent to the bitwise AND of all the target cells
+
+**Multi-Wordlin**
