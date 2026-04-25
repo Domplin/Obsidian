@@ -24,3 +24,5 @@ tags:
 	- Equivalent to the bitwise OR of all the target cells
 
 
+**Bitwise AND operation** - With [[Multi-Level Cell]]s
+![[In-FLASH bulk bitwise computing - MLC AND.png]]
