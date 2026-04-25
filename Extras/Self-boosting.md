@@ -4,4 +4,6 @@ During programming, a high voltage (15-20V) is applied to the selected wordline.
 
 
 **How self Boosting Works**
-The core Idea is to float the channel of unselected 
+The core Idea is to float the channel of unselected strings so the channel potential rises along with the wordline voltage, reducing the net voltage across the tunnel oxide of unselected cells
+
+1) Select gate source (SGS) is turned off - isolating the chan
