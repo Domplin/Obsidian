@@ -22,3 +22,5 @@ tags:
 
 
 **Multi-Level Cell**
+- The read time depends on the bit being read from
+	- The least significant bit (LSB) is the fastest 
