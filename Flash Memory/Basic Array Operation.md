@@ -1,0 +1,57 @@
+---
+tags:
+  - ECE_564
+  - Lecture_13
+---
+**How to update / erase a page** ([[NAND Array Structure]])
+1) Copy valid page data
+2) Block erase 
+![[Basic Array Operation.png]]
+
+*System level issues for page update*:
+- Write only works on erased page
+- [[In-place update]] of a page is not available 
+- Erase operation cannot be don on a single page
+
+
+
+
+**Read Operation**: Array biasing scheme
+- Read 1 page at a time ([[NAND Array Structure]])
+- Cell Bias Condition
+	- conducting = 1
+	- not conducting = 0
+- All the cells connected to a given word line are read simultaneously
+- Pass voltages need to be higher than the highest cell threshold voltage 
+
+
+
+**Page program operation**
+- All the cells connected to a given word line are programmed simultaneously 
+- All unselected word lines are biased with $V_{pass}$ voltage
+- High bit line voltage is used to pre-charge the NAND string to prevent programming ([[Self-boosting]])
+![[Basic Array Operation - Page program operation.png]]
+
+- Challenges in programming:
+	- Precise control of $V_{th}$ placement 
+	- Avoid over-programming
+	- Maintain tight distribution of MLC/TLC/QLC ([[Multi-Level Cell]])
+
+		To address these challenges, NAND flash uses the [[Incremental Step Pulse Programming (ISPP)]] algorithm 
+
+
+**Erase Operation**
+NAND flash erase operations reset entire blocks of memory cells to a logical "1" state by applying a high negative voltage to the substrate, causing electrons to tunnel away from the floating gate
+- Unlike reading/writing at the page level, erasure is done at the block level.
+- The erasing operation is slow and wears the memory cells over time 
+
+
+	*Key Aspects*
+	- Data is written and read in pages (4 KB - 16KB) is can only be erased in larger sizes (entire blocks instead of pages)
+	- A large negative voltage is applied to the control gate or a high positive voltage is applied to the substrate (p-well) - This triggers Fowler-Nordheim tunneling, forcing electrons out of the floating gate
+	- A successful erase sets all cells in the block to a "1" making it ready for new programming 
+
+
+**Summary of array operation**
+
+![[Basic Array Operation - Summary.png]]
