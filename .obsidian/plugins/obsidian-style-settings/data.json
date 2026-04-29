@@ -25,5 +25,15 @@
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
   "anuppuccin-theme-settings@@anp-disable-newtab-align": true,
   "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false,
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout"
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
+  "encore-settings@@theme-dark": "encore-theme-dark-rgb",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency": false,
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-oled-mode": false,
+  "encore-settings@@encore-coloured-tooltip": false,
+  "encore-settings@@encore-disable-grain": false,
+  "encore-settings@@encore-disable-clickability-fix": false,
+  "encore-settings@@encore-disable-logo-on-hr": false,
+  "encore-settings@@encore-no-calendar": false
 }

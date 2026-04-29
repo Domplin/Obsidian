@@ -1,0 +1,1 @@
+An in place update means modifying data by overwriting it directly at its current physical location. Changing individual bits/bytes where they already sit without moving the data else where
