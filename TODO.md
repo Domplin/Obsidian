@@ -3,4 +3,4 @@
 
 
 ECE 564
-Lecture 11 - Slide 20
+Lecture 13 - Slide 6
