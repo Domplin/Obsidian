@@ -1,6 +1,6 @@
-To obtain a [[Transfer Function]] using [[Possible Transfer Functions]] we first obtain the frequency-domain equivalent of the circuit by replacing resistors, inductors, and capacitors with their impedance values, $V , j\omega L, \frac{1}{j\omega C}$ 
+To obtain a [[Transfer Function]] using [[Possible Transfer Functions]] we first obtain the frequency-domain equivalent of the circuit by replacing resistors, inductors, and capacitors with their [[Impedance|impedance]] values, $V , j\omega L, \frac{1}{j\omega C}$ 
 
-We obtain the [[Frequency Response]] of the circuit by plotting the magnitude and phase of the transfer function as the frequency varies. 
+We obtain the [[Frequency Response]] of the circuit by plotting the magnitude and phase of the [[Transfer Function|transfer function]] as the frequency varies. 
 
 The transfer function $H(\omega)$ can be expressed in terms of its numerator polynomial $N(\omega)$ and denominator polynomial $D(\omega)$ as:
 $$

@@ -1,7 +1,7 @@
 The **complete response** or total response of the RC circuit to a sudden application of a dc voltage source
 
 $Complete Response = Natural \mathrm{Re}sponse + Forced \mathrm{Re}sponse$
-- Natural Response:
+- [[Natural Response]]:
 	- Stored energy
 - Forced Response
 	- independent source

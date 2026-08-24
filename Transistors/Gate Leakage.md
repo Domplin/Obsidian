@@ -13,7 +13,7 @@ tags:
 
 ![[Gate Leakage graph.png]]
 
-**Using high-k dielectric (thick) gate leakage can be suppressed**
+**Using [[High-K Dielectric|high-k dielectric]] (thick) gate leakage can be suppressed**
 
 $$
 I_{gate} \propto e^{-t_{ox}/\lambda}

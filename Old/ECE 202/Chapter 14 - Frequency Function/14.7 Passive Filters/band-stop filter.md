@@ -1,6 +1,6 @@
 A filter that prevents a band of frequencies between two designated values ($\omega_{1}$ and $\omega_{2}$) from passing is variably known as a **band-stop**, **band-reject**, or **notch** filter. A band-stop filter is formed when the output RLC [[Series Resonance]] circuit taken off the LC series combination.
 
-The transfer function is:
+The [[Transfer Function|transfer function]] is:
 $$
 H(\omega)=\frac{V_{o}}{V_{i}}=\frac{j\left( \omega L-\frac{1}{\omega C} \right)}{R+j\left( \omega L-\frac{1}{\omega C} \right)}
 $$

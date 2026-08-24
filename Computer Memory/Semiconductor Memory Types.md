@@ -16,7 +16,7 @@ tags:
 
 	- *Non-Volatile*
 		- Read Only Memory ([[ROM|ROM]])
-			- Programmable ROM ([[PROM]])
+			- Programmable [[ROM]] ([[PROM]])
 				- EPROM
 				- EEPROM
 					- NOR-Flash

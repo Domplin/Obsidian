@@ -3,4 +3,4 @@ In designing and analyzing filters and resonant circuits or in circuit analysis 
 
 There are two ways of scaling a circuit: [[magnitude scaling]], [[impedance scaling]], and [[frequency scaling]]. Both are useful in scaling responses and circuit elements to values within the practical ranges.
 
-While [[magnitude scaling]] leaves the frequency response of a circuit unaltered, [[frequency scaling]] shifts the response up or down frequency spectrum.
+While [[magnitude scaling]] leaves the [[Frequency Response|frequency response]] of a circuit unaltered, [[frequency scaling]] shifts the response up or down frequency spectrum.

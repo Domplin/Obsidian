@@ -8,5 +8,5 @@ aliases:
   - Static
   - Dynamic
 ---
-- Static: holds data as long as power is applied (SRAM)
-- Dynamic: Will lose data unless refreshed periodically (DRAM)
+- Static: holds data as long as power is applied ([[SRAM]])
+- Dynamic: Will lose data unless refreshed periodically ([[DRAM]])

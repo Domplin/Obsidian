@@ -4,7 +4,7 @@ tags:
   - Lecture_5
 ---
 
-- 6T SRAM cell has three states
+- 6T [[SRAM]] cell has three states
 	- Write 
 	- Retention/hold
 	- Read

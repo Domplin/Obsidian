@@ -1,4 +1,4 @@
-| Time Domain Representation      | Phasor Domain Representation |
+| Time Domain Representation      | [[Phasor]] Domain Representation |
 | ------------------------------- | ---------------------------- |
 | $V_{m} \cos(\omega t+\phi)$<br> | $V_{m}\angle\phi$            |
 | $V_{m}\sin(\omega t+\omega)$    | $V_{m}\angle\phi-90^\circ$   |

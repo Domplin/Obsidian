@@ -1,4 +1,4 @@
-**Bode Plots** are semi-log plots of the magnitude (in decibels) and phase (in degrees) of a transfer function versus frequency. 
+**Bode Plots** are semi-log plots of the magnitude (in decibels) and phase (in degrees) of a [[Transfer Function|transfer function]] versus frequency. 
 
 Bode plots contain the same information as the non-logarithmic plots, but they are much easier to construct.
 

@@ -19,7 +19,7 @@ Taking the derivative with respect to $t$ and dividing by *C* results in:
 $$
 \frac{d^2v}{dt^2}+\frac{1}{RC} \frac{dv}{dt}+\frac{1}{LC}v=0
 $$
-We obtain the characteristic equation by replacing the first derivative by $s$ and the second derivative by $s^2$.
+We obtain the [[characteristic equation]] by replacing the first derivative by $s$ and the second derivative by $s^2$.
 By following the same reasoning as [[Series RLC Circuit]] the [[characteristic equation]] is obtained as:
 $$
 s^2+\frac{1}{RC}s+\frac{1}{LC}=0

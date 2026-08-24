@@ -1,6 +1,6 @@
 $$
 \begin{align}
-\text{Draw the Bode Diagram for the transfer function:} \\
+\text{Draw the Bode Diagram for the [[Transfer Function|transfer function]]:} \\
 H(s)=100 \frac{s+1}{(s+10)(s+100)} = 100 \frac{s+1}{s^2+110s+1000}
 \end{align}
 $$

@@ -2,7 +2,7 @@
 **Performance & Timing Equations**
 
 *Execution Time*
-- $\text{CPU Time} = \frac{\text{Instructions}*\text{CPI}}{\text{Clock Rate}}$
+- $\text{[[CPU Time]]} = \frac{\text{Instructions}*\text{CPI}}{\text{Clock Rate}}$
 - $\text{CPU Time} = \text{Clock Cycles}*\text{Cycle Time}$
 
 *Performance*
@@ -24,7 +24,7 @@
 - $\text{Floating Point Instructions}=\text{Total Instructions}*\text{FP Instruction Ratio}$
 
 
-**Multi Processor Performance**
+**Multi [[Processor Performance]]**
 *Ideal Time per Processor*
 - $t_{p}=\frac{t}{p}$
 

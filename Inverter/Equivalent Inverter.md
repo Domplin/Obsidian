@@ -1,5 +1,5 @@
 
-The concept of beta ratios can be applied to gets more complex than inverters. To calculate the effective beta ratio, we need to transform a gate into an inverter. 
+The concept of [[Beta Ratios|beta ratios]] can be applied to gets more complex than inverters. To calculate the effective beta ratio, we need to transform a gate into an inverter. 
 
 For each input we can find the worst case equivalent inverter by assuming a minimum number of other inputs are set to set to sensitize the path
 

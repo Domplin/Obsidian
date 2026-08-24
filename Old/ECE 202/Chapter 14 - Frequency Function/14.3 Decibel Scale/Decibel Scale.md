@@ -1,4 +1,4 @@
-Since Bode plots are based on logarithms, its important that we keep the [[Properties of Logarithms]] in mind
+Since [[Bode Plots|Bode plots]] are based on logarithms, its important that we keep the [[Properties of Logarithms]] in mind
 
 In communications systems, gain is measured in *bels*. Historically, the bel is used to measure the ratio of two level of power or power gain G; that is:
 $$

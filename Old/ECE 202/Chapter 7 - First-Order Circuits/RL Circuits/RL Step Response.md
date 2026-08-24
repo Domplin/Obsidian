@@ -6,11 +6,11 @@ i_{t}=Ae^{-t/\tau} \\
 \end{align}
 $$
 Where *A* is to be determined 
-The steady-state response is the value of the current a long time after the switch is closed. The transient response essentially dies out after five time constants. 
+The [[Steady-State Response|steady-state response]] is the value of the current a long time after the switch is closed. The transient response essentially dies out after five time constants. 
 
 After that time the inductor becomes a short circuit, and the voltage across it 0.
 
-The steady state response is:
+The [[Steady State Response|steady state response]] is:
 $$
 i_{ss}=\frac{V_{S}}{R}
 $$

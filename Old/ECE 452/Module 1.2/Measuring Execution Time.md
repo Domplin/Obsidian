@@ -7,7 +7,7 @@ $$
 	- Total response time, including all aspects
 		- Processing (CPU), I/O, OS overhead, idle time
 	- Determines system performance
-- CPU time
+- [[CPU Time|CPU time]]
 	- Time spent processing a given job
 		- Discounts I/O time, other jobs’ shares 
 	- Comprises user CPU time and system [[CPU Time]]

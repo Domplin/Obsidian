@@ -1,4 +1,4 @@
-Consider the parallel RLC circuit shown. We want to find $i$ due to a sudden application of a DC circuit
+Consider the [[Parallel RLC Circuit|parallel RLC circuit]] shown. We want to find $i$ due to a sudden application of a DC circuit
 ![[Pasted image 20240502213041.png]]
 
 Applying KCL at the top node for $t>0$
@@ -17,7 +17,7 @@ The complete solution consists of the [[Old/ECE 202/Chapter 7 - First-Order Circ
 $$
 i(t)=i_{t}(t)+i_{ss}(t)
 $$
-The steady-state response is the final value of $i$. the final value of the current through the inductor is the same as the source current $I_{s}$:
+The [[Steady-State Response|steady-state response]] is the final value of $i$. the final value of the current through the inductor is the same as the source current $I_{s}$:
 $$
 i(t)=I_{s}+A_{1}e^{s_{1}t}+A_{2}e^{s_{2}t}
 $$
