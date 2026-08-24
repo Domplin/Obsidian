@@ -5,7 +5,7 @@ Dynamic programming is a method used to solve complex problems by breaking them 
 - The core idea behind DP is to store solutions to subproblems so that each is solved only once 
 - To Solve DP problems we first write a recursive solution in a way that there are overlapping subproblems in the recursion tree
 - To make sure that a recursive value is computed only once, we store the results of the recursive calls
-- There are two ways to store the results, one is top down ([[memoization]]) or bottom up (tabulation).
+- There are two ways to store the results, one is top down (memoization) or bottom up (tabulation).
 
 
 
@@ -18,5 +18,6 @@ Dynamic programming is a method used to solve complex problems by breaking them 
 The solution to the larger problem (finding the minimum cost path from the source node to the destination node) can be constructed from the solutions to these smaller nodes.
 
 
-1) Overlapping subproblems: 
-	1) The same subproblems are solved repeatedly in different parts of the problem refer to 
+
+**Approaches of Dynamic Programming**
+1) Top-Down Approach
