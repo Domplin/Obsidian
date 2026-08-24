@@ -18,3 +18,9 @@ tags:
 ![[NAND Array Structure - Cellpage.png|329]]  ![[NAND Array Structure - Nand string.png|319]]
 
 - The series connected memory cells from the bit-line to ground forms the NAND string
+
+
+
+ 
+ 
+-
