@@ -8,7 +8,7 @@ $$
 v=\omega LI_{m}\cos(\omega t+\phi+90^\circ)
 $$
 
-Which then transforms the to the phasor:
+Which then transforms the to the [[Phasor|phasor]]:
 $$
 V=\omega LI_{m}e^{j(\phi+90^\circ)}=\omega LI_{m}e^{j\phi}e^{j+90^\circ}=\omega LI_{m}\angle\phi+90^\circ
 $$

@@ -1,4 +1,4 @@
-**Magnitude scaling** is the process of increasing all impedances in a network by a factor, the frequency response remaining unchanged 
+**Magnitude scaling** is the process of increasing all impedances in a network by a factor, the [[Frequency Response|frequency response]] remaining unchanged 
 
 Recall that [[Impedance]]s of individual elements R, L, and C are given by
 $$
@@ -8,7 +8,7 @@ Z_{L}=j\omega L &  \\
 Z_{C}=\frac{1}{j\omega C} 
 \end{align}
 $$
-In magnitude scaling, we multiply the impedance of each circuit element by a factor of $K_{m}$ and let the frequency remain constant. This gives the new impedance as:
+In magnitude scaling, we multiply the [[Impedance|impedance]] of each circuit element by a factor of $K_{m}$ and let the frequency remain constant. This gives the new impedance as:
 $$
 \begin{align}
 Z^{'}_{R}=K_{m}Z_{R}=K_{m}R \\
@@ -24,7 +24,7 @@ L^{'}=K_{m}L \\
 C^{'}=\frac{C}{K_{m}}
 \end{align}
 $$
-The primed variable are the new values and the unprimed variable and the old values. Consider the series of parallel RLC circuit. We now have:
+The primed variable are the new values and the unprimed variable and the old values. Consider the series of [[Parallel RLC Circuit|parallel RLC circuit]]. We now have:
 $$
 \omega^{'}_{0}=\frac{1}{\sqrt{ L^{'}C^{'} }}=\frac{1}{\frac{K_{m}LC}{K_{m}}}=\frac{1}{\sqrt{ LC }}=\omega_{0}
 $$

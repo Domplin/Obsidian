@@ -1,4 +1,4 @@
-With the natural response shown graphically:
+With the [[Natural Response|natural response]] shown graphically:
 ![[Figure 7.2.png]]
 
 The speed at which the the voltage decreases is expressed as the *time constant* 

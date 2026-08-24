@@ -7,7 +7,7 @@ i_{2}=A_{2}e^{s_{2}t}
 $$
 Since the equation is a linear equation, any linear combination of the two distinct solutions, $i_{1}$ and $i_{2}$ is also a solution.
 
-A complete or total solution would therefore require a linear combination of $i_{1}$ and $i_{2}$. Thus the natural response of the [[Series RLC Circuit]] is:
+A complete or total solution would therefore require a linear combination of $i_{1}$ and $i_{2}$. Thus the [[Natural Response|natural response]] of the [[Series RLC Circuit]] is:
 $$
 i(t)=A_{1}e^{s_{1}t}+A_{2}e^{s_{2}t}
 $$

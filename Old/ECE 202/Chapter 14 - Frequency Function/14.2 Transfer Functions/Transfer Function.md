@@ -1,4 +1,4 @@
-The **Transfer Function** $H(\omega)$ (also called the network function) is a useful tool for finding the frequency response of a circuit. 
+The **Transfer Function** $H(\omega)$ (also called the network function) is a useful tool for finding the [[Frequency Response|frequency response]] of a circuit. 
 
 A transfer function is the frequency-dependent ratio of a forced function to a forcing function (*output to input*) The idea of a transfer function was implicit when we used concepts of [[Impedance]] and [[Admittance]] relating to voltage and current.
 

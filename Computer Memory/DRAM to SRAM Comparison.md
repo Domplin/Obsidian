@@ -4,6 +4,6 @@ tags:
   - ECE_564
 ---
 
-- DRAM is smaller & less expensive 
-- SRAM is faster
+- [[DRAM]] is smaller & less expensive 
+- [[SRAM]] is faster
 - DRAM requires more peripheral circuitry

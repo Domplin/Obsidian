@@ -2,7 +2,7 @@
 https://lpsa.swarthmore.edu/Bode/Bode.html
 
 
-1) Rewrite the transfer function in proper form
+1) Rewrite the [[Transfer Function|transfer function]] in proper form
 **Example 1** 
 - $H(s) = 30\frac{s+10}{s^2+3s+50}=30 \frac{10 \frac{s}{10}+1}{50 \left( \frac{s^2}{50}+\frac{3s}{50} +1 \right)} =6 \frac{\frac{s}{10}+1}{\frac{s^2}{50}+\frac{3s}{50}+1}$
 *note*: the final result has the lowest (zero) order power of numerator and denominator polynomial equal to unity

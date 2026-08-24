@@ -2,7 +2,7 @@ One type of first order filter is shown, The components selected for $Z_{i}$ and
 ![[Pasted image 20240408005918.png]]
 
 
-The figure shows a typical active [[low-pass filter]]. For this filter, the transfer function is:
+The figure shows a typical active [[low-pass filter]]. For this filter, the [[Transfer Function|transfer function]] is:
 $$
 H(\omega)=\frac{V_{o}}{V_{i}}=-\frac{Z_{f}}{Z_{i}}
 $$

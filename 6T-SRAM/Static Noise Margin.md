@@ -19,7 +19,7 @@ aliases:
 
 
 - Boosted cell supply
-	- Supply voltage of SRAM cell is higher than outside 
+	- Supply voltage of [[SRAM]] cell is higher than outside 
 	- Makes driver stronger than access suppressing the rise in the low side
 	- Effectively improves the beta ratio
 	- Driver [[NMOS vs PMOS|NMOS]] can be downsized decreasing cell size 

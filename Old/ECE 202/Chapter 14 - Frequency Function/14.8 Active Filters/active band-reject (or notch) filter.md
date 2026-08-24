@@ -2,9 +2,9 @@ A **band-reject filter** may be constructed by parallel combination of a [[low-p
 
 ![[Pasted image 20240408012629.png]]
 
-The circuit is designed such that the lower cutoff frequency $\omega_{1}$ is set by the [[low-pass filter]] while the upper cutoff frequency $\omega_{2}$ is set by the [[high-pass filter]]. the gap between $\omega_{1}$ and $\omega_{2}$ is the bandwidth of the filter. As shown in the figure (b), the filter passes frequencies below $\omega_{1}$ and above $\omega_{2}$.
+The circuit is designed such that the lower [[cutoff frequency]] $\omega_{1}$ is set by the [[low-pass filter]] while the upper cutoff frequency $\omega_{2}$ is set by the [[high-pass filter]]. the gap between $\omega_{1}$ and $\omega_{2}$ is the bandwidth of the filter. As shown in the figure (b), the filter passes frequencies below $\omega_{1}$ and above $\omega_{2}$.
 
-The transfer function is:
+The [[Transfer Function|transfer function]] is:
 $$
 H(\omega)=\frac{V_{o}}{V_{i}}=-\frac{R_{f}}{R_{i}}\left( -\frac{1}{1+j\omega C_{1}R}-\frac{j\omega C_{2}R}{1+j\omega C_{2}R} \right)
 $$

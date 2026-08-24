@@ -23,7 +23,7 @@ $$
 
 
 
-Analyzing circuits with mutual inductance:
+Analyzing circuits with [[Mutual Inductance|mutual inductance]]:
 
 ![[Pasted image 20240404200239.png]]
 Applying KVL to coil 1:

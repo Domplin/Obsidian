@@ -1,1 +1,1 @@
-- Sequences Datapath, memory
+- Sequences [[Datapath]], memory

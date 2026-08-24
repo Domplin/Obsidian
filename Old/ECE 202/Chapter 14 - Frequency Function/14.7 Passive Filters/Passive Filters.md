@@ -6,9 +6,9 @@ A filter is a *passive filter* if it consists only of passive elements R, L, and
 As shown there are four types of filters, either passive or active:
 ![[Pasted image 20240408000719.png]]
 
-1) a *low-pass filter* passes low frequencies and stops high frequencies
-2) a *high-pass filter* passes high frequencies and rejects low frequencies 
-3) A *band-pass filter* passes frequencies within a frequency band and blocks or attenuates frequencies outside the band 
+1) a *[[low-pass filter]]* passes low frequencies and stops high frequencies
+2) a *[[high-pass filter]]* passes high frequencies and rejects low frequencies 
+3) A *[[band-pass filter]]* passes frequencies within a frequency band and blocks or attenuates frequencies outside the band 
 4) A *band-pass filter* passes frequencies outside a frequency band and blocks or attenuates frequencies within the band
 
 

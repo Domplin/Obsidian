@@ -1,4 +1,4 @@
-**Resonance** is a condition in an [[Series RLC Circuit]] in which the capacitive and inductive reactance’s are equal in magnitude, thereby resulting in purely resistive impedance
+**Resonance** is a condition in an [[Series RLC Circuit]] in which the capacitive and inductive [[Reactance|reactance]]’s are equal in magnitude, thereby resulting in purely resistive [[Impedance|impedance]]
 
 
 Resonant circuits (*series or parallel*) are useful for constructing filters as their transfer functions can be highly frequency selective.
@@ -13,7 +13,7 @@ or
 $$
 Z=R+j\left( \omega L-\frac{1}{\omega C} \right)
 $$
-**Resonance** results when the imaginary part of the transfer function is zero or:
+**Resonance** results when the imaginary part of the [[Transfer Function|transfer function]] is zero or:
 $$
 Im(Z)=\omega L-\frac{1}{\omega C} =0
 $$

@@ -1,6 +1,6 @@
 $$
 \begin{align}
-\text{Draw the Bode Diagram for the transfer function:} \\
+\text{Draw the Bode Diagram for the [[Transfer Function|transfer function]]:} \\
 H(s)=10 \frac{s+10}{s^2+3s}
 \end{align}
 $$

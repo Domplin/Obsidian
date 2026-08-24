@@ -1,5 +1,5 @@
 
-Ohm’s Law in phasor form for any type of element as:
+Ohm’s Law in [[Phasor|phasor]] form for any type of element as:
 $$
 \begin{align}
 Z=\frac{V}{I} \\

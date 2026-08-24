@@ -1,4 +1,4 @@
-**Frequency scaling** is the process of shifting the frequency response of a network up or down the frequency axis while leaving the impedance the same
+**Frequency scaling** is the process of shifting the [[Frequency Response|frequency response]] of a network up or down the frequency axis while leaving the [[Impedance|impedance]] the same
 
 We achieve frequency scaling by multiplying the frequency by a factor $K_{f}$ while keeping the impedance the same. From the equations from [[Impedance]] we can see they are frequency dependent. If we apply frequency scaling to $Z_{L}(\omega)$ and $Z_{C}(\omega)$ we obtain:
 $$

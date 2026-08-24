@@ -1,6 +1,6 @@
 As we learned in the previous chapter the step response is obtained by the sudden application of a DC source
 
-Consider the series RLC circuit shown below
+Consider the [[Series RLC Circuit|series RLC circuit]] shown below
 ![[Pasted image 20240502210937.png]]
 
 Applying KVL around the loop for $t>0$ 

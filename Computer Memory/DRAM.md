@@ -4,7 +4,7 @@ tags:
   - ECE_564
 ---
 
-- **DRAM**: Dynamic Random Access Memory
+- **DRAM**: Dynamic [[Random Access Memory]]
 	- [[Static vs Dynamic Memory|Dynamic]]: must be refreshed periodically 
 	- [[Volatility of Memory|Volatile]]: Loses data when power is removed 
 

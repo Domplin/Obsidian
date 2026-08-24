@@ -1,4 +1,4 @@
-The parallel RLC circuit is the dual of the [[Series Resonance]] RLC circuit. The admittance is
+The [[Parallel RLC Circuit|parallel RLC circuit]] is the dual of the [[Series Resonance]] RLC circuit. The [[Admittance|admittance]] is
 $$
 Y=H(\omega)=\frac{I}{V} =\frac{1}{R}+j\omega C+\frac{1}{j\omega L}
 $$
@@ -38,7 +38,7 @@ Q=\frac{\omega_{0}}{B}=\omega_{0}RC=\frac{R}{\omega_{0}L}
 $$
 It should be noted that the top and bottom equations only apply to a parallel RLC circuit
 
-We can express the half-power frequencies in terms of the [[Quality Factor]]. The result is:
+We can express the [[Half-Power Frequencies|half-power frequencies]] in terms of the [[Quality Factor]]. The result is:
 $$
 \begin{align}
 \omega_{1}\approx \omega_{0}\sqrt{ 1+\left( \frac{1}{2Q} \right)^2 } -\frac{\omega_{0}}{2Q} \\

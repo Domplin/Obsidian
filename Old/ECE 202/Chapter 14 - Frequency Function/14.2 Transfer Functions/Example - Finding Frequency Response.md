@@ -1,6 +1,6 @@
 ![[Pasted image 20240328165137.png]]
 
-By Voltage division the transfer function is given by:
+By Voltage division the [[Transfer Function|transfer function]] is given by:
 $$
 H(\omega)=\frac{V_{o}}{V_{s}}=\frac{\frac{1}{j\omega C}}{R+{\frac{1}{j\omega C}}}=\frac{1}{1+j\omega RC}
 $$
@@ -19,7 +19,7 @@ At $\omega = 0$, $H=1$, and $\phi = 0$
 At $\omega=\infty$, $H=0$, and $\phi = -90$ 
 And $\omega = \omega_{o}$, $H=\frac{1}{\sqrt{ 2 }}$, and $\phi=-45$ 
 
-The table shows the frequency response:
+The table shows the [[Frequency Response|frequency response]]:
 ![[Table 14.1.png]]
 
 The graphs show the the amplitude response and phase response:

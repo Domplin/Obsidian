@@ -1,4 +1,4 @@
-| Element | Impedance               | Admittance              |
+| Element | [[Impedance]]               | [[Admittance]]              |
 | ------- | ----------------------- | ----------------------- |
 | $R$     | $Z=R$                   | $Y=\frac{1}{R}$         |
 | $L$     | $L=j\omega L$           | $Y=\frac{1}{j\omega L}$ |

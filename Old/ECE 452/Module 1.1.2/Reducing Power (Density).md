@@ -6,7 +6,7 @@
 $$
 \frac{P_{\text{new}}}{P_{\text{old}}} = \frac{C_{\text{old}}*0.85*(V_{\text{old}}*0.85)^2*F_{\text{old}}*0.85}{C_{\text{old}}*V_{\text{old}}^2*F_{old}} = 0.85^4= 0.52
 $$
-- **Technology scaling enables power reduction**
+- **[[Technology Scaling|Technology scaling]] enables power reduction**
 - But almost twice as many transistors as in older technology
 	- Thus, overall power does not change
 - *Also:* we can not reduce voltage significantly

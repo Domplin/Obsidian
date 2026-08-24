@@ -6,7 +6,7 @@ $$
 s_{2}=-\alpha-\sqrt{ -(\omega_{0}^2-\alpha_{2}) }=-\alpha-j\omega_{d}
 $$
 where $j=\sqrt{ -1 }$ and $\omega_{d}=\sqrt{ \omega_{0}^2 -\alpha^2}$
-This is called the damped frequency. Both $\omega_{0}$ and $\omega_{d}$ are natural frequencies because they help determine the natural response. While $\omega_{0}$ is often called the *undamped natural frequency*, $\omega_{d}$ is called the *damped natural frequency* 
+This is called the damped frequency. Both $\omega_{0}$ and $\omega_{d}$ are natural frequencies because they help determine the [[Natural Response|natural response]]. While $\omega_{0}$ is often called the *undamped natural frequency*, $\omega_{d}$ is called the *damped natural frequency* 
 
 The natural response is:
 $$

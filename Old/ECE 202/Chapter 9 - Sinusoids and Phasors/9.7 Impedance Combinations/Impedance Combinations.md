@@ -10,4 +10,4 @@ The equivalent [[Impedance]] at the input terminal is:
 $$
 Z_{eq}=\frac{V}{I}=Z_{1}+Z_{2}+\dots+Z_{N}
 $$
-Showing that the total or equivalent impedance of series connected impedances is the sum of the individual impedances.
+Showing that the total or equivalent [[Impedance|impedance]] of series connected impedances is the sum of the individual impedances.

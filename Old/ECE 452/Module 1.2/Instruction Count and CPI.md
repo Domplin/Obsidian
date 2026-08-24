@@ -3,7 +3,7 @@
 $$
 \begin{align}
 \text{Clock Cycles}=\text{Instruction Count}*\text{Cycles Per Instruction} \\
-\text{CPU Time}=\text{Instruction Count}*CPI*\text{Clock Cycle Time}  \\
+\text{[[CPU Time]]}=\text{Instruction Count}*CPI*\text{Clock Cycle Time}  \\
 = \frac{\text{Instruction Count}*\text{CPI}}{\text{Clock Rate}}
 \end{align}
 $$
