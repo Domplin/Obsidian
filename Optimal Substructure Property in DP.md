@@ -1,0 +1,4 @@
+---
+aliases:
+  - Optimal Substructure
+---
