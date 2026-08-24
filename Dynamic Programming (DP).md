@@ -19,4 +19,4 @@ The solution to the larger problem (finding the minimum cost path from the sourc
 
 
 1) Overlapping subproblems: 
-	1) The same subproblems are sov
+	1) The same subproblems are solved repeatedly in different parts of the problem refer to 
