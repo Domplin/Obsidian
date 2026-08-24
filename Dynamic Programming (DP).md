@@ -21,4 +21,7 @@ The solution to the larger problem (finding the minimum cost path from the sourc
 
 **Approaches of Dynamic Programming**
 1) Top-Down Approach (Memoization):
-	- In the top-down approach the solution is recursive and adds a memoization table to avoid 
+	- In the top-down approach the solution is recursive and adds a memoization table to avoid repeated calls of the same subproblems 
+		- Before making any recursive call, first check if the memoization table already has a solution for it
+		- After the recursive call is over store the solution in the memoization table.
+- 
