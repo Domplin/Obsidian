@@ -12,4 +12,6 @@ Dynamic programming is a method used to solve complex problems by breaking them 
 **When to Use Dynamic Programming**
 1) Optimal Structure:
 	1) The property [[optimal substructure]] means we use the optimal results of subproblems to achieve the optimal result of the bigger problem
-*Example*: Consider the problem of finding the minimum cost path in a weighted graph 
+*Example*: Consider the problem of finding the minimum cost path in a weighted graph from a source node to a destination node. The problem can be broken up into smaller subproblems:
+- Find the minimum cost path from the source node to each intermediate note
+- Find the minimum cost path from each intermediate node to the destination node
