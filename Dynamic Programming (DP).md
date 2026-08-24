@@ -15,3 +15,8 @@ Dynamic programming is a method used to solve complex problems by breaking them 
 *Example*: Consider the problem of finding the minimum cost path in a weighted graph from a source node to a destination node. The problem can be broken up into smaller subproblems:
 - Find the minimum cost path from the source node to each intermediate note
 - Find the minimum cost path from each intermediate node to the destination node
+The solution to the larger problem (finding the minimum cost path from the source node to the destination node) can be constructed from the solutions to these smaller nodes.
+
+
+1) Overlapping subproblems: 
+	1) The same subproblems are sov
