@@ -29,3 +29,8 @@ The solution to the larger problem (finding the minimum cost path from the sourc
 		- Write an iterative solution (avoid recursion overhead) and build the solution in a bottom up manner
 		- use a DP table where the solution of the base cases are filled out, then fill out the remaining entries of the table using recursive formula 
 		- Only use recursive formula on table entries and do not make recursive calls.
+
+
+
+
+
