@@ -3,7 +3,8 @@ Three groups were assigned: Search Engine group, Brain-only group, LLM group. Ea
 
 Electroencephalography (EEG) was used to record participants brain activity to record their cognitive engagement and cognitive load. Each participant was interviewed after each session. Scoring was used from human teachers and an AI judge which was custom built.
 
-EEG analysis showed that LLM, search engine, and brain only groups had significantly different neural connectivity patterns, showing divergent cognitive strategies 
+EEG analysis showed that LLM, search engine, and brain only groups had significantly different neural connectivity patterns, showing divergent cognitive strategies. Brain connectivity scaled down with the amount of cognitive support:
+- Brain only group showed the strongest, wid
 
 
 
