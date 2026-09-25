@@ -8,6 +8,8 @@ EEG analysis showed that LLM, search engine, and brain only groups had significa
 - Search engine group showed intermediate engagement
 - LLM group showed the weakest coupling
 
+Session 4 LLM-to-brain participants showed weaker neural connectivity and under-engagement of alpha and beta networks, brain-to-LLM sh
+
 
 
 
