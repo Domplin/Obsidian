@@ -10,7 +10,7 @@ EEG analysis showed that LLM, search engine, and brain only groups had significa
 
 Session 4 LLM-to-brain participants showed weaker neural connectivity and under-engagement of alpha and beta networks, brain-to-LLM showed higher memory recall and re-engagement. The ownership of LLM group's essays in the interviews was low. The search engine group had strong ownership, but fell behind in memory recall when compared to the brain only group. The LLM group also fell behind in their ability to quote from the essays they wrote just prior.
 
-The educational impact of LLM use has only started and the paper argues that its likely to decrease learning skills based on the results of the study. The use of LLMs had a measurable impact on participants, over the 4 month study the LLM group performed worse than the brain-only group
+The educational impact of LLM use has only started and the paper argues that its likely to decrease learning skills based on the results of the study. The use of LLMs had a measurable impact on participants, over the 4 month study the LLM group performed worse than the brain-only group at all levels: neural, linguistic, scoring.
 
 
 
