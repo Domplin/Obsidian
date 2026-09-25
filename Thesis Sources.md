@@ -1,5 +1,0 @@
-$$
-\begin{tabular}
-
-\end{tabular}
-$$
