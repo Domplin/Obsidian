@@ -5,7 +5,10 @@ Three groups were assigned: Search Engine group, Brain-only group, LLM group. Ea
 
 
 
-
+| Term         | Description                                                                             |
+| ------------ | --------------------------------------------------------------------------------------- |
+| LLM-to-Brain | The group that was allowed to originally use LLMs, then made to write without any tools |
+| Brain-to     |                                                                                         |
 
 
 
